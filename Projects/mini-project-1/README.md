@@ -11,7 +11,7 @@
 - [Presentation](#presentation)
 
 ## Project Description
-In this project, you will work in couples and create your first software!
+In this project, you will work in pairs and create your first software!
 You are tasked with creating a **game** that interacts with the user, using the functions and basic python resources you have learned during the week. Your game will be able to take an input from the user and provide an output. 
 
 You will also present your game to the class. 
@@ -27,6 +27,7 @@ You must come to an agreement with your colleagues so that each of you develops 
 * Tic Tac Toe
 * Blackjack
 * Soldier & Dice (Risk)
+* Battleships
 
 ## Project Goals
 During this project you will:
@@ -77,6 +78,5 @@ The slides of your presentation must include the content listed below and a demo
 * Improvements  
 * Highlights  
 * Demo (ONE MINUTE)
-* Battleships
 
 Tip: you have only 3 minutes for this presentation so keep it simple!
