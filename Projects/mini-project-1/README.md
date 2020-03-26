@@ -11,7 +11,7 @@
 - [Presentation](#presentation)
 
 ## Project Description
-In this project, you will create your first software!
+In this project, you will work in couples and create your first software!
 You are tasked with creating a **game** that interacts with the user, using the functions and basic python resources you have learned during the week. Your game will be able to take an input from the user and provide an output. 
 
 You will also present your game to the class. 
@@ -48,18 +48,18 @@ The **mandatory** deliverables that you must turn in are:
 The **deadline** to turn in the deliverables is right before the project presentations. 
 
 ## Schedule
-| Wednesday |  
+| Phase 1 |  
 |:--------:|
 * Choose your game.
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). 
 * Fork the repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-1-Build-Your-Own-Game/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date. 
 * Once you finish, start coding!
 
-| Thursday |  
+| Phase 2 |  
 |:--------:|
 * In the evening, start preparing the slides for Friday's presentation. 
 
-| Friday|  
+| Phase 3 |  
 |:--------:|
 * Presentation time! 
 
@@ -77,5 +77,6 @@ The slides of your presentation must include the content listed below and a demo
 * Improvements  
 * Highlights  
 * Demo (ONE MINUTE)
+* Battleships
 
 Tip: you have only 3 minutes for this presentation so keep it simple!
