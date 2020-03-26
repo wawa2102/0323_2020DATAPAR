@@ -28,6 +28,8 @@ You must come to an agreement with your colleagues so that each of you develops 
 * Blackjack
 * Soldier & Dice (Risk)
 * Battleships
+* Pokemon fight simulator
+* Russian Roulette
 
 ## Project Goals
 During this project you will:
