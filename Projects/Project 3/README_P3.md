@@ -12,8 +12,6 @@ Why this one ? Because we can access users data as age, sexe, localisation and a
 
 ## Structure of the website :
 
-![Forum Livre Addict](Livre_Addict_Forum.png)
-
 Level 1 :
 * Main page of all genres : 1 page
 * Fantasy, Fantastique et bit-lit: 16 pages
@@ -30,19 +28,24 @@ Level 1 :
 
 Total : 105
 
+![Forum Livre Addict](Livre_Addict_Forum.png)
+
 Level 2 : 
 * ~30 books per page per genre
-
 Total : 2 930 book url
 
+![Forum Livre Addict](Forum_2.png)
 
 Level 3 : Comment analysis
 * Comments : ~95 000
 * Page of Comments : ~9 500
 
+![Forum Livre Addict](Forum_3.png)
+
 Level 4 : profils
 * Unique Profils : 77 000 inscris
 
+![Forum Livre Addict](Forum_4.png)
 
 ## Workflow :
 1) Get the first link
