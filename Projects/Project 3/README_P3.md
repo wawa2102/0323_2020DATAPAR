@@ -12,6 +12,8 @@ Why this one ? Because we can access users data as age, sexe, localisation and a
 
 ## Structure of the website :
 
+![Forum Livre Addict](Livre_Addict_Forum.png)
+
 Level 1 :
 * Main page of all genres : 1 page
 * Fantasy, Fantastique et bit-lit: 16 pages
@@ -82,6 +84,10 @@ Level 4 : profils
 * Deal with sentiment analysis and french content 
 * Deal with APIs and Lib
 
+![API](Tone_Analyzer_API.png)
+
+![SQL](SQL.png)
+
 ## Hours :
 - Jeudi : 5h
 - Vendredi : 3h + 3h (end of all the scrapping code)+ (from 19h => put lst and dict into df)
@@ -93,6 +99,7 @@ Total : 25h
 - As an author I want to write the perfect Thriller story for women, between 30-35 years old, living in IDF and that are reading less than 20 books / year
 - As a marketing officer I want to push the last thriller story of my author to the right target
 
+![Output](Output.png)
 
 ## Next steps :
 - create a datapipeline to clean the df 
