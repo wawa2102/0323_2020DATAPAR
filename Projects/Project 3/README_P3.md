@@ -99,3 +99,4 @@ Total : 25h
 - provide a description of each columns of each df
 - Create an UX interface for the author and the marketing officer with excel 
 - Replace API by a Lib
+- Use mac scheduler to run the script once a month
