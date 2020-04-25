@@ -1,0 +1,1001 @@
+,vintage.wine.winery.seo_name,vintage.wine.winery.name,vintage.wine.name,vintage.year,vintage.statistics.ratings_average,vintage.wine.region.name,vintage.wine.region.seo_name,vintage.wine.style.region.seo_name
+0,chateau-batailley,Château Batailley,Pauillac (Grand Cru Classé),2013,4.1,Pauillac,pauillac,bordeaux
+1,chateau-darche-fr,Château d'Arche,Haut-Médoc,2012,3.6,Haut-Médoc,haut-medoc,bordeaux
+2,chateau-moulin-ventfr,Château Moulin à Vent,Moulis-en-Médoc,2012,3.6,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+3,xavier-vignon,Xavier Vignon,Gigondas,2009,3.9,Gigondas,gigondas,rhone
+4,chateau-clos-l-eglise,Chateau Clos l'Eglise,Côtes de Castillon,2006,3.7,Castillon - Côtes de Bordeaux,cotes-de-castillon,bordeaux
+5,roylland,Château Roylland,Saint-Émilion Grand Cru,2009,4.1,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+6,bouchard-pere-and-fils,Bouchard Père & Fils,Beaune 1er Cru 'Clos Saint-Landry' (Monopole) Blanc,2010,4.1,Beaune Premier Cru,beaune-premier-cru,cote-de-beaune
+7,lascombes,Château Lascombes,Margaux (Grand Cru Classé),2005,4.4,Margaux,margaux,bordeaux
+8,au-pied-du-mont-chauve,Au Pied du Mont Chauve,Corton Grand Cru 'Clos des Fietres',2011,4.2,Corton Grand Cru 'Les Fietres',corton-les-fietres,cote-de-beaune
+9,chanson-pere-and-fils,Chanson,Charmes-Chambertin Grand Cru,2008,4.3,Charmes-Chambertin Grand Cru,charmes-chambertin,cote-de-nuits
+10,chanson-pere-and-fils,Chanson,Gevrey-Chambertin,2011,3.9,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+11,chateau-marquis-de-terme,Château Marquis de Terme,Margaux (Grand Cru Classé),2012,4.0,Margaux,margaux,bordeaux
+12,fr-chateau-canon-la-gaffeliere,Château Canon-La-Gaffelière,Saint-Émilion Grand Cru (Premier Grand Cru Classé),2003,4.2,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+13,ramafort,Château Ramafort,Médoc,2000,3.7,Médoc,medoc,bordeaux
+14,chaigne-et-fils,Chaigne et Fils,Louis Le Comte Bordeaux blanc,2018,3.8,Bordeaux,bordeaux,bordeaux
+15,villa-symposia,Villa Symposia,l'Equilibre,2016,4.2,Languedoc-Roussillon,languedoc-roussillon,languedoc-roussillon
+16,charles-heidsieck,Charles Heidsieck,Blanc des Millenaires Millésime Brut Champagne,2004,4.5,Champagne,champagne,champagne
+17,haut-bages-monpelou,Château Haut-Bages Monpelou,Pauillac,2011,3.9,Pauillac,pauillac,bordeaux
+18,palais-cardinal,Château Palais Cardinal,Saint-Emilion Grand Cru,2016,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+19,haut-bages-monpelou,Château Haut-Bages Monpelou,Pauillac,2012,4.1,Pauillac,pauillac,bordeaux
+20,chateau-chantemerle-medoc,Château Chantemerle,Médoc,2015,3.5,Médoc,medoc,bordeaux
+21,lucian-boillot-et-fils,Lucien Boillot & Fils,Gevrey-Chambertin,2016,3.9,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+22,louis-latour,Louis Latour,Gevrey-Chambertin 1er Cru Les Corbeaux,2006,4.4,Gevrey-Chambertin Premier Cru,gevrey-chambertin-premier-cru,cote-de-nuits
+23,chateau-gruaud-larose,Château Gruaud Larose,Saint-Julien (Grand Cru Classé),2014,4.1,Saint-Julien,saint-julien,bordeaux
+24,domaine-zind-humbrecht,Domaine Zind Humbrecht,Riesling Alsace Grand Cru Rangen De Thann Clos Saint Urbain,1998,4.2,Alsace Grand Cru,alsace-grand-cru,alsace
+0,saint-pierre,Château Saint-Pierre,Saint-Julien (Grand Cru Classé),2006,3.9,Saint-Julien,saint-julien,bordeaux
+1,bellisle-mondotte,Château Mondotte Bellisle,Cuvée Prestige Saint-Émilion Grand Cru,2005,3.8,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+2,meo-camuzet,Méo-Camuzet,Vosne-Romanée 1er Cru 'Les Chaumes',2014,4.3,Vosne-Romanée 1er Cru 'Les Chaumes',vosne-romanee-les-chaumes,cote-de-nuits
+3,hugel,Hugel,Jubilee Riesling,2004,4.1,Alsace,alsace,alsace
+4,pavillon-56541,Domaine du Pavillon,Corton-Charlemagne Grand Cru,2014,4.2,Corton-Charlemagne Grand Cru,corton-charlemagne,cote-de-beaune
+5,trimbach-alsace,Trimbach,Pinot Gris Alsace Réserve Personnelle,2010,4.1,Alsace,alsace,alsace
+6,ormes-de-pez,Château Ormes de Pez,Saint-Estèphe,2005,4.0,Saint-Estèphe,saint-estephe,bordeaux
+7,domaine-de-baron-arques,Domaine de Baron'arques,Limoux,2013,3.8,Limoux,limoux,languedoc-roussillon
+8,chateau-de-chantegrive,Château de Chantegrive,Graves,2013,3.7,Graves,graves,bordeaux
+9,domaine-zind-humbrecht,Domaine Zind Humbrecht,Gewürztraminer Alsace Clos Windsbuhl,2006,4.3,Alsace,alsace,alsace
+10,chateau-lafaurie-peyraguey,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé),2008,4.1,Sauternes,sauternes,bordeaux
+11,henri-bourgeois,Henri Bourgeois,Pouilly-Fumé En Travertin,2013,3.9,Pouilly-Fumé,pouilly-fume,loire-valley
+12,salon,Delamotte,Brut Champagne Grand Cru 'Le Mesnil-sur-Oger',N.V.,3.9,Champagne Grand Cru 'Le Mesnil-sur-Oger',champagne-grand-cru-le-mesnil-sur-oger,champagne
+13,fr-chateau-poitevin,Château Poitevin,Médoc,2014,3.6,Médoc,medoc,bordeaux
+14,chateau-haut-marbuzet,Château Haut-Marbuzet,Saint-Estèphe,1990,4.3,Saint-Estèphe,saint-estephe,bordeaux
+15,chateau-malartic-lagraviere,Château Malartic-Lagravière,Pessac-Léognan (Grand Cru Classé de Graves),2008,4.1,Pessac-Léognan,pessac-leognan,bordeaux
+16,chateau-fleur-cardinale,Château Fleur Cardinale,Saint-Émilion Grand Cru (Grand Cru Classé),2014,4.1,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+17,domaine-william-fevre,Domaine William Fèvre,Chablis Grand Cru Bougros,2012,4.2,Chablis Grand Cru 'Bougros',chablis-grand-cru-bougros,bourgogne
+18,nicolas-pere-fils,Nicolas Pere & Fils,Côtes du Rhône Vieilles Vignes,2016,4.0,Côtes-du-Rhône,cotes-du-rhone,rhone
+19,chateau-lafite-rothschild,Château Lafite Rothschild,Carruades de Lafite Pauillac,2008,4.3,Pauillac,pauillac,bordeaux
+20,fr-chateau-latour-martillac,Château Latour-Martillac,Pessac-Léognan (Grand Cru Classé de Graves),1999,3.8,Pessac-Léognan,pessac-leognan,bordeaux
+21,chateau-grand-puy-ducasse,Château Grand-Puy Ducasse,Le Cloitre de Grand-Puy Ducasse Pauillac,2010,4.0,Pauillac,pauillac,bordeaux
+22,haut-madrac-126784,Château Haut-Madrac,Haut-Médoc,2014,3.9,Haut-Médoc,haut-medoc,bordeaux
+23,sillons,Château Les Grands Sillons,Cuvée Amodis Pomerol,2014,4.0,Pomerol,pomerol,bordeaux
+24,saint-ange-139365,Château Saint Ange,Saint-Émilion Grand Cru,2015,4.1,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+0,pontac-lynch,Château Pontac Lynch,Margaux,2013,4.1,Margaux,margaux,bordeaux
+1,domaine-gangloff,Domaine Yves Gangloff,La Sereine Noire Côte-Rôtie,2016,4.6,Côte-Rôtie,cote-rotie,rhone
+2,fargues,Château de Fargues,Sauternes (Lur Saluces),2007,4.5,Sauternes,sauternes,bordeaux
+3,daugay,Château Daugay,Saint-Émilion Grand Cru,2015,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+4,chateau-rocher-gardat,Château Rocher Gardat,Montagne-Saint-Émilion,2016,3.9,Montagne-Saint-Émilion,montagne-saint-emilion,bordeaux
+5,mouton-pere-et-fils,Domaine Mouton,Côte-Rôtie,2016,4.1,Côte-Rôtie,cote-rotie,rhone
+6,roc-de-levraut,Château Roc de Levraut,Bordeaux Supérieur,2018,4.0,Bordeaux Supérieur,bordeaux-superieur,bordeaux
+7,chateau-peyredon-lagravette,Château Peyredon Lagravette,Haut-Médoc Rouge,2014,3.7,Haut-Médoc,haut-medoc,bordeaux
+8,chateau-simard,Château Simard,Saint-Émilion Grand Cru,2010,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+9,chateau-paloumey,Château Paloumey,Haut-Médoc,2014,3.7,Haut-Médoc,haut-medoc,bordeaux
+10,chateau-des-annereaux,Château des Annereaux,Lalande-de-Pomerol,2016,4.0,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+11,domaine-de-marzilly,Domaine de Marzilly,Ullens Brut Champagne,N.V.,4.1,Champagne,champagne,champagne
+12,pierre-henri-morel,Pierre Henri Morel,Châteauneuf-du-Pape,2010,3.8,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+13,fr-abbatucci,Abbatucci,BR,2012,3.8,Corsica,corsica,
+14,clos-marie,Clos Marie,Metairies du Clos Vieilles Vignes Pic Saint Loup,2013,3.8,Pic-Saint-Loup,pic-saint-loup,languedoc-roussillon
+15,au-pied-du-mont-chauve,Au Pied du Mont Chauve,Saint-Aubin 1er Cru 'Pitangerets' Rouge,2013,3.8,Saint-Aubin 1er Cru 'Pitangeret',saint-aubin-pitangeret,cote-de-beaune
+16,rene-bouvier,René Bouvier,Monopole Marsannay 'Le Clos',2014,3.8,Marsannay,marsannay,bourgogne
+17,domaine-long-depaquit,Domaine Long Depaquit,Chablis Grand Cru 'Moutonne' (Monopole),2012,4.2,Chablis Grand Cru 'La Moutonne',chablis-grand-cru-la-moutonne,bourgogne
+18,domaine-long-depaquit,Domaine Long Depaquit,Chablis Premier Cru 'Les Beugnons',2014,4.1,Chablis 1er Cru 'Beugnons',chablis-beugnons,bourgogne
+19,louis-latour,Louis Latour,Meursault-Blagny Premier Cru Château de Blagny,2014,4.0,Meursault 1er Cru 'Blagny',meursault-1er-cru-blagny,cote-de-beaune
+20,m-chapoutier,M. Chapoutier,Saint-Joseph Les Granilites,2014,3.8,Saint-Joseph,saint-joseph,saint-joseph
+21,chanson-pere-and-fils,Chanson,Chablis Premier Cru 'Montée de Tonnerre',2013,4.1,Chablis 1er Cru 'Montee de Tonnerre',chablis-montee-de-tonnerre,bourgogne
+22,bruno-colin,Bruno Colin,Puligny-Montrachet Premier Cru 'La Truffière',2013,4.3,Puligny-Montrachet 1er Cru 'La Truffière',puligny-montrachet-la-truffiere,cote-de-beaune
+23,domaine-long-depaquit,Domaine Long Depaquit,Chablis Premier Cru 'Les Lys',2014,3.8,Chablis 1er Cru 'Les Lys',chablis-les-lys,bourgogne
+24,pierre-damoy,Pierre Damoy,Gevrey-Chambertin 'La Justice',2014,4.1,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+0,bruno-colin,Bruno Colin,Puligny-Montrachet Premier Cru 'La Truffière',2013,4.3,Puligny-Montrachet 1er Cru 'La Truffière',puligny-montrachet-la-truffiere,cote-de-beaune
+1,pierre-damoy,Pierre Damoy,Gevrey-Chambertin 'La Justice',2014,4.1,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+2,patrick-jasmin,Patrick Jasmin,La Giroflarie Côte-Rôtie,2017,3.6,Côte-Rôtie,cote-rotie,rhone
+3,fr-domaine-georges-vernay,Domaine Georges Vernay,Les Terrasses de L'Empire Condrieu,2011,4.2,Condrieu,condrieu,condrieu
+4,nerthe,Château La Nerthe,Cuvée des Cadettes Châteauneuf-du-Pape,2003,4.3,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+5,ferraton-pere-fils,Ferraton Père & Fils,Crozes-Ermitage Le Grand Courtil,2012,3.7,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+6,domaine-william-fevre,Domaine William Fèvre,Chablis Premier Cru Vaillons,2016,4.0,Chablis Premier Cru,chablis-premier-cru,bourgogne
+7,domaine-gilles-barge,Gilles Barge,Côte-Brune Côte-Rôtie,2012,4.1,Côte-Rôtie,cote-rotie,rhone
+8,joseph-mellot,Joseph Mellot,La Grande Châtelaine Sancerre,2011,4.2,Sancerre,sancerre,loire-valley
+9,marcel-deiss,Marcel Deiss,Mambourg Grand Cru,2004,4.3,Alsace Grand Cru,alsace-grand-cru,
+10,chateau-doisy-vedrines,Château Doisy-Vedrines,Sauternes (Grand Cru Classé),2003,4.2,Sauternes,sauternes,bordeaux
+11,rene-bouvier,René Bouvier,Côte de Nuits-Villages,2014,4.0,Côte de Nuits Villages,cote-de-nuits-villages,cote-de-nuits
+12,jean-marc-brocard,Jean-Marc Brocard,Chablis Premier Cru 'Beauregard',2012,3.8,Chablis 1er Cru 'Les Beauregards',chablis-les-beauregards,bourgogne
+13,daniel-etienne-defaix,Daniel-Etienne Defaix,Chablis Vieilles Vignes,2012,4.0,Chablis,chablis,bourgogne
+14,coutet,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé),2002,4.1,Barsac,barsac,bordeaux
+15,bouchard-pere-and-fils,Bouchard Père & Fils,Volnay 1er Cru 'Clos des Chênes',2011,4.0,Volnay 1er Cru 'Clos des Chênes',volnay-clos-des-chenes,cote-de-beaune
+16,joseph-mellot,Joseph Mellot,L'Original,2015,4.4,Sancerre,sancerre,
+17,ferraton-pere-fils,Ferraton Père & Fils,Crozes-Ermitage Le Grand Courtil,2014,3.8,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+18,coutet,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé),1999,4.0,Barsac,barsac,bordeaux
+19,domaine-des-perdrix,Domaine des Perdrix,Les 8 Ouvrèes Nuits-Saint-Georges Premier Cru 'Aux Perdrix',2012,4.4,Nuits-Saint-Georges 1er Cru 'Aux Perdrix',nuits-saint-georges-aux-perdrix,cote-de-nuits
+20,couhins,Château Couhins,Pessac-Léognan Blanc (Grand Cru Classé de Graves),2014,3.7,Pessac-Léognan,pessac-leognan,bordeaux
+21,domaine-gauby,Gauby,Calcinaires Côtes Catalanes,2016,3.6,Côtes Catalanes,cotes-catalanes,languedoc-roussillon
+22,domaine-de-la-vieille-julienne,Domaine de la Vieille Julienne,Les Hauts-Lieux Châteauneuf-du-Pape,2011,4.2,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+23,domaine-de-la-vougeraie,Domaine de la Vougeraie,Vougeot Les Cras Premier Cru,2011,4.0,Clos Vougeot Grand Cru,clos-de-vougeot,cote-de-nuits
+24,jean-luc-colombo,Jean-Luc Colombo,Syrah Cornas Les Ruchets,2013,4.3,Cornas,cornas,cornas
+0,chateau-doisy-vedrines,Château Doisy-Vedrines,Sauternes (Grand Cru Classé),2002,4.0,Sauternes,sauternes,bordeaux
+1,au-pied-du-mont-chauve,Au Pied du Mont Chauve,Chassagne Montrachet 1er Cru 'Les Vergers',2013,4.2,Chassagne-Montrachet 1er Cru 'Les Vergers',chassagne-montrachet-les-vergers,cote-de-beaune
+2,chateau-de-tracy,Château de Tracy,101 Rangs Pouilly-Fumé,2013,4.2,Pouilly-Fumé,pouilly-fume,loire-valley
+3,chateau-la-faviere,Château La Favière,Bordeaux Supérieur,2016,4.1,Bordeaux Supérieur,bordeaux-superieur,bordeaux
+4,rontets,Château des Rontets,Pierrefolle Pouilly-Fuissé,2014,4.2,Pouilly-Fuissé,pouilly-fuisse,maconnais
+5,couhins,Château Couhins,Pessac-Léognan,2014,3.7,Pessac-Léognan,pessac-leognan,bordeaux
+6,chateau-balestard-la-tonnelle,Château Balestard La Tonnelle,Saint-Émilion Grand Cru (Grand Cru Classé),1989,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+7,clos-vieux-taillefer,Clos Vieux Taillefer,Pomerol,2011,4.0,Pomerol,pomerol,bordeaux
+8,pascal-jolivet,Pascal Jolivet,Sancerre La Bondenotte Rouge,2016,3.6,Sancerre,sancerre,loire-valley
+9,domaine-de-la-janasse,Domaine de la Janasse,Clos St. Antonin Châteauneuf-du-Pape,2015,3.9,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+10,vouette-et-sorbe,Vouette et Sorbée,Blanc d'Argile Brut Nature Champagne,N.V.,4.2,Champagne,champagne,champagne
+11,chateau-capbern,Château Capbern,Saint-Estèphe,2015,4.0,Saint-Estèphe,saint-estephe,bordeaux
+12,chateau-la-croix-de-gay,Château La Croix de Gay,Pomerol,2009,4.1,Pomerol,pomerol,bordeaux
+13,domaine-de-la-cote-de-l-ange,Domaine de la Cote de l'Ange,Vieilles Vignes Châteauneuf-du-Pape,2015,4.2,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+14,paul-jaboulet-aine-1387,Paul Jaboulet Aîné,Crozes-Hermitage Domaine de Thalabert,2010,4.0,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+15,chateau-beauvillage,Château Beauvillage,Médoc,2015,3.8,Médoc,medoc,bordeaux
+16,domaine-piron-lameloise,Domaine Piron Lameloise,Morgon Côte du Py,2017,3.6,Morgon,morgon,beaujolais
+17,chateau-de-candale,Château de Candale,Saint-Émilion Grand Cru,2015,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+18,chateau-beauvillage,Château Beauvillage,Médoc,2016,3.8,Médoc,medoc,bordeaux
+19,charles-westler,Charles Westler,Réserve Brut Champagne,N.V.,3.9,Champagne,champagne,champagne
+20,chartron-et-trebuchet,Chartron et Trébuchet,Meursault Premier Cru 'Les Charmes',2016,4.3,Meursault Premier Cru,meursault-premier-cru,cote-de-beaune
+21,haut-bages-monpelou,Château Haut-Bages Monpelou,Pauillac,2014,4.2,Pauillac,pauillac,bordeaux
+22,fr-chateau-latour-martillac,Château Latour-Martillac,Pessac-Léognan (Grand Cru Classé de Graves),2005,4.2,Pessac-Léognan,pessac-leognan,bordeaux
+23,chateau-hosanna,Château Hosanna,Pomerol,2006,4.4,Pomerol,pomerol,bordeaux
+24,domaine-ribiera,Domaine Ribiera,Amassa Cinsault - Grenache,2018,3.8,Languedoc-Roussillon,languedoc-roussillon,languedoc-roussillon
+0,taittinger,Taittinger,Cuvée Prestige Brut Champagne,N.V.,4.1,Champagne,champagne,champagne
+1,chateau-tayac-margaux,Château Tayac,Margaux,2016,4.0,Margaux,margaux,bordeaux
+2,tour-sieujean,Château Tour Sieujean,Pauillac,2014,4.0,Pauillac,pauillac,bordeaux
+3,courtedune,Domaine Font de Courtedune,Châteauneuf-du-Pape,2017,4.1,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+4,commanderie,Château La Commanderie,Saint-Émilion Grand Cru (Grand Cru Classé),2015,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+5,haut-madrac-126784,Château Haut-Madrac,Haut-Médoc,2015,3.8,Haut-Médoc,haut-medoc,bordeaux
+6,chateau-peyrabon,Château Peyrabon,Haut-Médoc,2016,3.8,Haut-Médoc,haut-medoc,bordeaux
+7,mas-becha,Mas Becha,Classique Rouge,2018,3.6,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+8,grand-verdus,Château Le Grand Verdus,Bordeaux Supérieur,2018,4.0,Bordeaux Supérieur,bordeaux-superieur,bordeaux
+9,fr-chateau-latour-martillac,Château Latour-Martillac,Pessac-Léognan (Grand Cru Classé de Graves),2015,4.1,Pessac-Léognan,pessac-leognan,bordeaux
+10,la-grave-figeac,Château La Grave Figeac,Saint-Émilion Grand Cru,2015,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+11,chateau-leoville-las-cases,Château Léoville Las Cases,La Petite Marquise Saint-Julien,2016,3.9,Saint-Julien,saint-julien,bordeaux
+12,chateau-la-gaffeliere,Château La Gaffelière,Saint-Émilion Grand Cru (Premier Grand Cru Classé),2017,4.2,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+13,franc-petit-figeac,Petit-Figeac,Saint-Émilion,2015,4.2,Saint-Émilion,saint-emilion,bordeaux
+14,fr-chateau-latour,Château Latour,Grand Vin Pauillac (Premier Grand Cru Classé),2011,4.5,Pauillac,pauillac,bordeaux
+15,schieferkopf,Schieferkopf,Lieu-dit Buehl Riesling,2015,3.9,Alsace,alsace,alsace
+16,chateau-la-lagune,Château La Lagune,Haut-Médoc (Grand Cru Classé),2015,4.0,Haut-Médoc,haut-medoc,bordeaux
+17,chateau-chasse-spleen,Château Chasse-Spleen,Moulis-en-Médoc,2016,3.9,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+18,champagne-de-saint-gall,Champagne de Saint-Gall,Blanc de Blancs Brut Champagne Premier Cru,N.V.,3.8,Champagne Premier Cru,champagne-premier-cru,champagne
+19,fr-chateau-latour-martillac,Château Latour-Martillac,Pessac-Léognan (Grand Cru Classé de Graves),1996,4.3,Pessac-Léognan,pessac-leognan,bordeaux
+20,fr-chateau-haut-bages-liberal,Château Haut-Bages Libéral,La Chapelle de Bages Pauillac,2012,3.7,Pauillac,pauillac,bordeaux
+21,xavier-vignon,Xavier Vignon,Châteauneuf-du-Pape Cuvée Anonyme Rouge,2016,4.0,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+22,chateau-maris,Château Maris,Les Planels,2017,3.9,Minervois La Livinière,minervois-la-liviniere,languedoc-roussillon
+23,domaine-de-chevalier,Domaine de Chevalier,Pessac-Léognan (Grand Cru Classé de Graves),2002,4.3,Pessac-Léognan,pessac-leognan,bordeaux
+24,domaine-des-roches-neuves,Domaine des Roches Neuves,Clos de l'Échelier Saumur Blanc,2014,3.9,Saumur,saumur,loire-valley
+0,domaine-des-roches-neuves,Domaine des Roches Neuves,Clos du Moulin,2016,4.0,Saumur,saumur,
+1,alain-voge,Alain Voge,Les Vinsonnes Saint-Joseph,2014,3.9,Saint-Joseph,saint-joseph,saint-joseph
+2,fr-abbatucci,Abbatucci,Général de la Révolution (Cuvée Collection),2014,4.4,Corsica,corsica,
+3,michel-stephane-ogier,Michel & Stéphane Ogier,L'Âme Soeur (Syrah de Seyssuel),2012,4.0,Northern Rhône,northern-rhne,rhone
+4,louis-cheze,Louis Chèze,Brèze Condrieu,2013,3.9,Condrieu,condrieu,condrieu
+5,chateau-rabaud-promis,Château Rabaud-Promis,Sauternes (Premier Grand Cru Classé),2003,4.2,Sauternes,sauternes,bordeaux
+6,antoine-jobard,Francois et Antoine Jobard,Meursault-Blagny 1er Cru,2012,4.3,Meursault,meursault,cote-de-beaune
+7,michel-bouzereau,Michel Bouzereau,Puligny-Montrachet 1er Cru 'Les Champs Gains',2015,4.5,Puligny-Montrachet 1er Cru 'Champ Gain',puligny-montrachet-champ-gain,cote-de-beaune
+8,lascombes,Château Lascombes,Margaux (Grand Cru Classé),2014,3.9,Margaux,margaux,bordeaux
+9,ampelidae,Ampelidae,P.N. 1328,2009,3.9,Val de Loire,vin-de-pays-de-la-loire,
+10,jean-michel-gerin,Jean-Michel Gerin,La Loye Condrieu,2014,4.3,Condrieu,condrieu,condrieu
+11,ampelidae,Ampelidae,P.N. 1328,2014,3.8,Val de Loire,vin-de-pays-de-la-loire,
+12,domaine-yves-cuilleron,Yves Cuilleron,Crozes-Hermitage Les Deux Terrasses,2012,3.9,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+13,clos-haut-peyraguey,Clos Haut-Peyraguey,Sauternes (Premier Grand Cru Classé),2014,4.1,Sauternes,sauternes,bordeaux
+14,marcel-deiss,Marcel Deiss,Schoffweg (Le Chemin des Brebis),2011,3.9,Alsace,alsace,
+15,vieux-chateau-certan,Vieux Château Certan,Pomerol,1998,4.4,Pomerol,pomerol,bordeaux
+16,piedlong,Piedlong,Châteauneuf-du-Pape,2011,4.1,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+17,bouchard-pere-and-fils,Bouchard Père & Fils,Chevalier-Montrachet Grand Cru Blanc,2015,4.5,Chevalier-Montrachet Grand Cru,chevalier-montrachet-grand-cru,cote-de-beaune
+18,marcel-deiss,Marcel Deiss,Burg,2012,4.2,Alsace,alsace,
+19,thibault,Thibault Liger-Belair,Les Vieilles Vignes Moulin-a-Vent,2013,3.6,Moulin-à-Vent,moulin-a-vent,beaujolais
+20,de-venoge,De Venoge,Cordon Bleu Brut Champagne,2002,4.0,Champagne,champagne,champagne
+21,thibault,Thibault Liger-Belair,Nuits-Saint-Georges 'La Charmotte',2012,4.1,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+22,pierre-damoy,Pierre Damoy,Gevrey-Chambertin 'La Justice',2011,3.9,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+23,meo-camuzet,Méo-Camuzet,Fixin 1er Cru 'Clos du Chapitre',2016,4.3,Fixin 1er Cru 'Clos du Chapitre',fixin-le-clos-du-chapitre,cote-de-nuits
+24,domaine-de-la-vougeraie,Domaine de la Vougeraie,Clos de Vougeot Grand Cru,2012,4.5,Clos Vougeot Grand Cru,clos-de-vougeot,cote-de-nuits
+0,domaine-de-la-vougeraie,Domaine de la Vougeraie,Charmes-Chambertin Grand Cru Les Mazoyères,2014,4.4,Charmes-Chambertin Grand Cru,charmes-chambertin,cote-de-nuits
+1,faiveley,Faiveley,Nuits-Saint-Georges 1er Cru Les Damodes,2012,4.2,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+2,olivier-leflaive,Olivier Leflaive,Bâtard-Montrachet Grand Cru,2013,4.6,Bâtard-Montrachet Grand Cru,batard-montrachet-grand-cru,cote-de-beaune
+3,bouchard-pere-and-fils,Bouchard Père & Fils,Le Corton Grand Cru,2013,4.1,Corton Grand Cru,corton,cote-de-beaune
+4,thibault,Thibault Liger-Belair,Nuits-Saint-Georges 'La Charmotte',2011,3.7,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+5,michel-bouzereau,Michel Bouzereau,Meursault-Genevrières 1er Cru,2015,4.2,Meursault 1er Cru 'Genevrières',meursault-genevrieres,cote-de-beaune
+6,marcel-deiss,Marcel Deiss,Burg,2010,4.2,Alsace,alsace,
+7,jean-luc-colombo,Jean-Luc Colombo,Syrah Cornas Terres Brûlées,2011,4.0,Cornas,cornas,cornas
+8,antoine-jobard,Francois et Antoine Jobard,Meursault-Blagny 1er Cru,2011,4.3,Meursault,meursault,cote-de-beaune
+9,le-chateau-de-chamirey,Château de Chamirey,Mercurey 1er Cru 'Clos du Roi',2013,4.1,Mercurey 1er Cru 'Le Clos du Roy',mercurey-le-clos-du-roy,cote-chalonnaise
+10,chateau-guiraud,Château Guiraud,Sauternes (Premier Grand Cru Classé),1998,4.3,Sauternes,sauternes,bordeaux
+11,meo-camuzet,Méo-Camuzet,Fixin,2016,3.8,Fixin,fixin,cote-de-nuits
+12,fr-chateau-marsau,Château Marsau,Francs - Côtes de Bordeaux,2014,3.6,Francs - Côtes de Bordeaux,cotes-de-francs,bordeaux
+13,chateau-de-tracy,Château de Tracy,101 Rangs Pouilly-Fumé,2012,4.2,Pouilly-Fumé,pouilly-fume,loire-valley
+14,chateau-les-trois-croix,Château Les Trois Croix,Fronsac,2012,3.8,Fronsac,fronsac,bordeaux
+15,fr-domaine-cordier-pere-fils,Domaine Cordier Père & Fils,Vignes Blanches Pouilly-Fuissé,2016,3.8,Pouilly-Fuissé,pouilly-fuisse,maconnais
+16,domaine-long-depaquit,Domaine Long Depaquit,Chablis Premier Cru 'Les Beugnons',2013,3.9,Chablis 1er Cru 'Beugnons',chablis-beugnons,bourgogne
+17,trimbach-alsace,Trimbach,Gewurztraminer Alsace Vendanges Tardives,2009,4.2,Alsace,alsace,alsace
+18,lucien-crochet,Lucien Crochet,Le Chêne Marchand Sancerre Blanc,2014,3.9,Sancerre,sancerre,loire-valley
+19,domaine-combier,Combier,Saint-Joseph Rouge,2016,4.1,Saint-Joseph,saint-joseph,saint-joseph
+20,alain-voge,Alain Voge,Harmonie Saint-Péray,2017,3.8,Saint-Péray,saint-peray,saint-peray
+21,chateau-batailley,Château Batailley,Pauillac (Grand Cru Classé),2016,4.2,Pauillac,pauillac,bordeaux
+22,hugel,Hugel,Sélection de Grains Nobles Gewürztraminer,2007,4.3,Alsace,alsace,alsace
+23,taittinger,Taittinger,Millésimé Brut Champagne,2013,4.2,Champagne,champagne,champagne
+24,vincent-gaudry,Vincent Gaudry,Sancerre Mélodie de Vieilles Vignes,2017,3.9,Sancerre,sancerre,loire-valley
+0,chateau-trotte-vieille,Château Trotte Vieille,Saint-Émilion Grand Cru (Premier Grand Cru Classé),2009,4.3,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+1,chateau-tronquoy-lalande,Château Tronquoy-Lalande,Saint-Estèphe,2014,3.9,Saint-Estèphe,saint-estephe,bordeaux
+2,chateau-batailley,Château Batailley,Pauillac (Grand Cru Classé),2012,4.2,Pauillac,pauillac,bordeaux
+3,clos-de-bouard,Clos de Bouard,Dame de Boüard Montagne Saint-Émilion,2016,3.7,Montagne-Saint-Émilion,montagne-saint-emilion,bordeaux
+4,fr-chateau-haut-surget,Château Haut-Surget,Lalande-de-Pomerol,2016,3.8,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+5,pontac-lynch,Château Pontac Lynch,Margaux,2016,4.1,Margaux,margaux,bordeaux
+6,chateau-angelus,Château Angelus,Saint-Émilion Grand Cru (Premier Grand Cru Classé),2015,4.6,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+7,valois,Château de Valois,Pomerol,2015,4.3,Pomerol,pomerol,bordeaux
+8,chateau-ducru-beaucaillou,Château Ducru-Beaucaillou,Saint-Julien (Grand Cru Classé),2015,4.6,Saint-Julien,saint-julien,bordeaux
+9,m-chapoutier,M. Chapoutier,Cornas Temenos,2016,4.0,Cornas,cornas,cornas
+10,chateau-trotte-vieille,Château Trotte Vieille,Saint-Émilion Grand Cru (Premier Grand Cru Classé),2013,3.7,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+11,bouchard-pere-and-fils,Bouchard Père & Fils,Vigne de l'Enfant Jésus Beaune 1er Cru 'Les Grèves',2015,4.4,Beaune 1er Cru 'Les Grèves',beaune-les-greves,cote-de-beaune
+12,champagne-gosset,Gosset,Grande Réserve Brut Champagne,N.V.,4.1,Champagne,champagne,champagne
+13,jeff-carrel,Jeff Carrel,La Bette Côtes du Roussillon Villages,2017,3.9,Côtes du Roussillon Villages,cotes-du-roussillon-villages,languedoc-roussillon
+14,magnan-figeac,Château Magnan-Figeac,Saint-Émilion Grand Cru,2015,4.1,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+15,les-bachelards,Château des Bachelards - Comtesse de Vazeilles,Fleurie,2014,3.7,Fleurie,fleurie,beaujolais
+16,haut-bages-monpelou,Château Haut-Bages Monpelou,Pauillac,2015,4.0,Pauillac,pauillac,bordeaux
+17,chateau-margaux,Château Margaux,Pavillon Rouge du Château Margaux,1992,4.3,Margaux,margaux,bordeaux
+18,chateau-lynch-moussas,Château Lynch-Moussas,Pauillac (Grand Cru Classé),2013,3.9,Pauillac,pauillac,bordeaux
+19,pol-roger,Pol Roger,Blanc de Blancs Champagne (Extra Cuvée de Réserve),2009,4.2,Champagne,champagne,champagne
+20,haut-madrac-126784,Château Haut-Madrac,Haut-Médoc,2016,3.7,Haut-Médoc,haut-medoc,bordeaux
+21,brimoncourt,Brimoncourt,Régence Brut Aÿ Champagne,N.V.,3.9,Champagne,champagne,champagne
+22,joseph-drouhin,Joseph Drouhin,Beaune 1er Cru 'Clos des Mouches',2017,4.3,Beaune 1er Cru 'Le Clos des Mouches',beaune-le-clos-des-mouches,cote-de-beaune
+23,arlaud,Domaine Arlaud,Chambolle-Musigny,2016,4.1,Chambolle-Musigny,chambolle-musigny,cote-de-nuits
+24,chateau-brane-cantenac,Château Brane-Cantenac,Margaux (Grand Cru Classé),2010,4.3,Margaux,margaux,bordeaux
+0,vincent-et-denis-berthaut,Domaine Berthaut-Gerbet,Fixin Les Clos,2013,3.8,Fixin,fixin,cote-de-nuits
+1,fr-pierre-usseglio,Pierre Usseglio,Châteauneuf-du-Pape,2015,4.1,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+2,fr-chateau-latour-martillac,Château Latour-Martillac,Pessac-Léognan (Grand Cru Classé de Graves),2008,4.0,Pessac-Léognan,pessac-leognan,bordeaux
+3,chateau-duhart-milon,Château Duhart-Milon,Pauillac (Grand Cru Classé),2016,4.1,Pauillac,pauillac,bordeaux
+4,laffitte-carcasset,Château Laffitte-Carcasset,Saint-Estèphe,2016,4.0,Saint-Estèphe,saint-estephe,bordeaux
+5,vincent-et-denis-berthaut,Domaine Berthaut-Gerbet,Fixin,2015,3.8,Fixin,fixin,cote-de-nuits
+6,la-tour-figeac,Château La Tour Figeac,Saint-Émilion Grand Cru (Grand Cru Classé),2015,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+7,chateau-trotte-vieille,Château Trotte Vieille,Saint-Émilion Grand Cru (Premier Grand Cru Classé),2016,4.1,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+8,chateau-lafite-rothschild,Château Lafite Rothschild,Carruades de Lafite Pauillac,1987,4.5,Pauillac,pauillac,bordeaux
+9,tardieu-laurent,Tardieu-Laurent,Cornas Coteaux,2014,3.9,Cornas,cornas,cornas
+10,fr-marc-sorrel,Marc Sorrel,Les Rocoules Hermitage Blanc,2011,4.1,Hermitage,hermitage,rhone
+11,jacquinot-fils,Jacquinot & Fils,Réserve 29 Brut Champagne,N.V.,4.0,Champagne,champagne,champagne
+12,michel-chevre,Michel Chevre,Les Pentes Clos de l'Écotard Saumur,2016,4.3,Saumur,saumur,loire-valley
+13,thibault,Thibault Liger-Belair,Nuits-Saint-Georges Premier Cru 'Les Saint Georges',2013,4.3,Nuits-Saint-Georges Premier Cru,nuits-saint-georges-premier-cru,cote-de-nuits
+14,thibault,Thibault Liger-Belair,Nuits-Saint-Georges 'La Charmotte',2013,4.0,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+15,marcel-deiss,Marcel Deiss,Alsace Grand Cru Schoenenbourg,2011,4.3,Alsace Grand Cru,alsace-grand-cru,
+16,chateau-de-la-maltroye,Château de La Maltroye,Chassagne-Montrachet 1er Cru 'Les Grandes Ruchottes',2008,4.3,Chassagne-Montrachet 1er Cru 'Les Grandes Ruchottes',chassagne-montrachet-les-grandes-ruchottes,cote-de-beaune
+17,fombrauge,Château Fombrauge,Magrez Fombrauge Saint-Émilion Grand Cru,2011,4.2,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+18,coutet,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé),2008,4.1,Barsac,barsac,bordeaux
+19,louis-latour,Louis Latour,Grands Echézeaux Grand Cru,2013,3.7,Grands-Échezeaux Grand Cru,grands-echezeaux,cote-de-nuits
+20,faiveley,Faiveley,Gevrey-Chambertin 1er Cru 'La Combe Aux Moines',2014,4.0,Gevrey-Chambertin 1er Cru 'Combe au Moine',gevrey-chambertin-combe-au-moine,cote-de-nuits
+21,paul-kuble,Paul Kubler,Riesling K,2016,3.5,Alsace,alsace,alsace
+22,domaine-alain-chabanon,Alain Chabanon,Campredon,2017,3.5,Languedoc,languedoc,languedoc-roussillon
+23,domaine-yves-cuilleron,Yves Cuilleron,Côte-Rôtie Terres Sombres,2013,4.1,Côte-Rôtie,cote-rotie,rhone
+24,jean-luc-colombo,Jean-Luc Colombo,Syrah Cornas La Louvée,2011,4.3,Cornas,cornas,cornas
+0,chateau-lafaurie-peyraguey,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé),2007,4.2,Sauternes,sauternes,bordeaux
+1,domaine-des-roches-neuves,Domaine des Roches Neuves,Clos de l'Échelier Saumur Blanc,2016,4.0,Saumur,saumur,loire-valley
+2,chateau-nairac,Château Nairac,Barsac (Grand Cru Classé),2008,4.3,Barsac,barsac,bordeaux
+3,chateau-de-la-maltroye,Château de La Maltroye,Chassagne-Montrachet 1er Cru 'Clos du Chäteau' (Monopole) Blanc,2009,4.3,Chassagne-Montrachet Premier Cru,chassagne-montrachet-premier-cru,cote-de-beaune
+4,fr-domaine-des-lises,Domaine des Lises (Maxime Graillot),Equinoxe Crozes-Hermitage,2018,3.5,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+5,chateau-de-la-maltroye,Château de La Maltroye,Chassagne-Montrachet 1er Cru Morgeot 'Vigne Blanche',2009,4.2,Chassagne-Montrachet 1er Cru 'Vigne Blanche',chassagne-montrachet-vigne-blanche,cote-de-beaune
+6,fr-alfred-gratien,Alfred Gratien,Brut Champagne,N.V.,3.9,Champagne,champagne,champagne
+7,nicolas-mariotti-bindi,Nicolas Mariotti Bindi,Porcellese Vieilles Vignes,2014,4.1,Patrimonio,patrimonio,
+8,domaine-des-pothiers,Domaine des Pothiers,Eclipse,2018,3.7,Beaujolais,beaujolais,
+9,alphonse-mellot,Alphonse Mellot,En Grands Champs Sancerre,2015,3.9,Sancerre,sancerre,loire-valley
+10,marcel-deiss,Marcel Deiss,Rotenberg Alsace 1er Cru,2011,4.0,Alsace,alsace,
+11,ferraton-pere-fils,Ferraton Père & Fils,Ermitage Les Dionnières,2014,4.1,Hermitage,hermitage,hermitage
+12,faiveley,Faiveley,Corton-Charlemagne Grand Cru,2013,4.4,Corton-Charlemagne Grand Cru,corton-charlemagne,cote-de-beaune
+13,chateau-l-evangile,Château l'Évangile,Pomerol,2012,4.5,Pomerol,pomerol,bordeaux
+14,bouchard-pere-and-fils,Bouchard Père & Fils,Montrachet Grand Cru Blanc,2013,4.6,Montrachet Grand Cru,montrachet-grand-cru,cote-de-beaune
+15,chateau-climens,Château Climens,Barsac (Premier Grand Cru Classé),2012,4.1,Barsac,barsac,bordeaux
+16,jean-paul-benoit-droin,Jean-Paul & Benoit Droin,Petit Chablis,2018,3.7,Petit Chablis,petit-chablis,bourgogne
+17,fr-matthieu-barret,Domaine du Coulet - Matthieu Barret,Billes Noires Cornas,2010,4.1,Cornas,cornas,cornas
+18,chateau-trotte-vieille,Château Trotte Vieille,Saint-Émilion Grand Cru (Premier Grand Cru Classé),2012,4.2,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+19,chateau-de-la-maltroye,Château de La Maltroye,Chassagne-Montrachet,2013,4.2,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+20,fombrauge,Château Fombrauge,Chateau Magrez Fombrauge Bordeaux Blanc,2011,4.3,Bordeaux,bordeaux,bordeaux
+21,tardieu-laurent,Tardieu-Laurent,Condrieu,2011,4.0,Condrieu,condrieu,condrieu
+22,fr-domaine-georges-vernay,Domaine Georges Vernay,Blonde du Seigneur Côte-Rôtie,2013,4.2,Côte-Rôtie,cote-rotie,rhone
+23,fr-matthieu-barret,Domaine du Coulet - Matthieu Barret,Billes Noires Cornas,2011,4.2,Cornas,cornas,cornas
+24,faiveley,Faiveley,Nuits-Saint-Georges 1er Cru Aux Chaignots,2014,4.1,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+0,lucien-crochet,Lucien Crochet,Le Cul de Beaujeu Sancerre,2014,4.3,Sancerre,sancerre,loire-valley
+1,sylvain-bruneau,Cave Bruneau-Dupuy,Tradition Saint-Nicolas-de-Bourgueil,2016,3.9,Saint-Nicolas-de-Bourgueil,saint-nicolas-de-bourgueil,
+2,rene-bourgeon,Rene Bourgeon,Givry,2016,3.6,Givry,givry,cote-chalonnaise
+3,l-alexandrin-de-maupassant,L'Alexandrin de Maupassant,Bordeaux,2015,4.2,Bordeaux,bordeaux,bordeaux
+4,olivier-leflaive,Olivier Leflaive,Bienvenues-Bâtard-Montrachet Grand Cru,N.V.,4.5,Bienvenues-Bâtard-Montrachet Grand Cru,bienvenues-batard-montrachet-grand-cru,cote-de-beaune
+5,christophe-buisson,Christophe Buisson,Auxey-Duresses,2014,3.6,Auxey-Duresses,auxey-duresses,cote-de-beaune
+6,chanson-pere-and-fils,Chanson,Chablis Premier Cru 'Fourchaumes',2012,3.8,Chablis 1er Cru 'Fourchaume',chablis-fourchaume,bourgogne
+7,landereau,Château Landereau,La Vie en Rosé,2016,3.6,Bordeaux,bordeaux,
+8,philippe-loquineau,Philippe Loquineau,Cuvée Salamandre Cour Cheverny,2011,3.5,Cour-Cheverny,cour-cheverny,loire-valley
+9,cloitre-lescours,Château Cloitre Lescours,Saint-Émilion Grand Cru,2007,3.7,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+10,riou-de-thaillas,Château Riou de Thaillas,Saint-Émilion Grand Cru,2011,3.8,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+11,fr-domaine-renucci,Domaine Renucci,Cuvée Vignola Corse Calvi Blanc,2017,3.6,Vin de Corse,vin-de-corse,
+12,berta-maillol,Berta Maillol,Hors d'Âge Traditionnel Banyuls,N.V.,3.9,Banyuls,banyuls,
+13,domaine-ribiera,Domaine Ribiera,Causse Toujours,2015,3.7,Vin de France,vin-de-pays-vignobles-de-france,languedoc-roussillon
+14,domaine-henri-naudin-ferrand,Henri Naudin-Ferrand,Bellis Perennis,2015,4.0,Bourgogne Hautes-Côtes de Beaune,hautes-cotes-de-beaune,bourgogne
+15,domaine-clef-de-saint-thomas,Domaine Clef de Saint Thomas,La Clef de St Thomas Châteauneuf-du-Pape Rouge,2011,4.0,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+16,domaine-de-la-monardiere,La Monardiere,Les Calades Vacqueyras,2015,4.1,Vacqueyras,vacqueyras,rhone
+17,borie-manoux,Borie Manoux,L'Ermitage de Monleury Montagne-Saint-Émilion,2011,3.3,Montagne-Saint-Émilion,montagne-saint-emilion,bordeaux
+18,paul-ginglinger,Paul Ginglinger,Gewürztraminer Alsace Grand Cru 'Pfersigberg',2016,3.8,Alsace Grand Cru 'Pfersigberg',alsace-grand-cru-pfersigberg,alsace
+19,corconnac,Château Corconnac,Haut-Médoc,2013,3.4,Médoc,medoc,bordeaux
+20,domaine-richaud,Domaine Richaud,à la Source Red,2017,3.8,Vin de France,vin-de-pays-vignobles-de-france,languedoc-roussillon
+21,lanye-barrac,Domaine Lanye Barrac,La Rabidote Saint-Chinian,2016,4.0,Saint-Chinian,saint-chinian,languedoc-roussillon
+22,albane-and-bertrand-minchin,Domaine Minchin,Le Claux Delorme Valencay Rouge,2013,3.5,Valençay,valencay,
+23,alain-voge,Alain Voge,Cornas,2001,3.9,Cornas,cornas,cornas
+24,jean-goulley-fils,Domaine Jean Goulley & Fils,Chablis,2012,3.7,Chablis,chablis,bourgogne
+0,barlet-raymond-and-fils,La Cave du Prieure - Raymond Barlet & Fils,Altesse Roussette de Savoie,2016,3.6,Roussette de Savoie,roussette-de-savoie,
+1,barton-guestier,Barton & Guestier,Bordeaux Prince Noir,2016,3.2,Bordeaux,bordeaux,bordeaux
+2,magdeleine-bouhou,Magdeleine Bouhou,Blaye - Côtes de Bordeaux,2010,3.4,Blaye - Côtes de Bordeaux,blaye-cotes-de-bordeaux,bordeaux
+3,fontcreuse,Château de Fontcreuse,Cuvée F,2014,4.1,Bouches-du-Rhone,bouches-du-rhone,
+4,didier-gerin,Didier Gerin,Les IV Saisons Côte Rôtie,2010,4.3,Côte-Rôtie,cote-rotie,rhone
+5,barlet-raymond-and-fils,La Cave du Prieure - Raymond Barlet & Fils,Jongieux Gamay,2016,3.5,Savoie,savoie,
+6,yon-saint-martin,Yon Saint-Martin,Saint-Émilion Grand Cru,2014,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+7,jonc-blanc,Chateau Jonc-Blanc,Pure S,2013,3.9,Vin de France,vin-de-pays-vignobles-de-france,
+8,fr-chandesais,Maison Chandesais,Savoure Coteaux Bourguignons,2014,3.2,Coteaux Bourguignons,coteaux-bourguignons,bourgogne
+9,binner,Binner,Vendanges Tardives Riesling,2006,4.2,Alsace,alsace,
+10,aanda-devillard,Devillard,Le Renard Givry,2013,3.6,Givry,givry,cote-chalonnaise
+11,le-domaine-saget,Le Domaine Saget,Pouilly-Fumé,2013,3.7,Pouilly-Fumé,pouilly-fume,loire-valley
+12,fr-lalande-de-pez,Château Lalande de Pez,Saint-Estèphe,2014,3.7,Saint-Estèphe,saint-estephe,bordeaux
+13,fr-chateau-de-caraguilhes,Château de Caraguilhes,Cara de Caraguilhes Rosé,2017,4.4,Corbières,corbieres,languedoc-roussillon
+14,chateau-la-fleur-darthus,Château La Fleur d'Arthus,Saint-Émilion Grand Cru,2009,3.7,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+15,emmanuel-darnaud,Emmanuel Darnaud,Mise en Bouche Crozes-Hermitage,2014,3.8,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+16,chateau-les-pins,Château les Pins,Côtes du Roussillon Villages,2006,3.7,Côtes du Roussillon Villages,cotes-du-roussillon-villages,languedoc-roussillon
+17,domaine-des-bruniers,Domaine des Bruniers,Quincy,2016,3.8,Quincy,quincy,loire-valley
+18,philippe-gamet,Philippe Gamet,Blancs de Noirs Brut Réserve Champagne,N.V.,3.7,Champagne,champagne,champagne
+19,chateau-de-lou-22586,Château de l'Ou,L'Oue Rouge,2015,3.7,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+20,fr-gaia,Domaine de Gaïa,Désinvolte,2016,3.1,Vin de France,vin-de-pays-vignobles-de-france,
+21,fr-guy-saget,Guy Saget,Sancerre Rouge,2016,3.8,Sancerre,sancerre,loire-valley
+22,chateau-bel-air-cadillac-cotes-de-bordeaux,Château Bel-Air,Cadillac - Côtes de Bordeaux,2012,3.4,Cadillac - Côtes de Bordeaux,cadillac-cotes-de-bordeaux,bordeaux
+23,baron-philippe-de-rothschild-sa,Baron Philippe de Rothschild,Baron Philippe Pauillac,1985,4.5,Pauillac,pauillac,bordeaux
+24,jacques-cartier,Jacques Cartier,Brut Champagne,N.V.,3.2,Champagne,champagne,
+0,martinon,Château Martinon,Bordeaux Supérieur,2014,2.9,Bordeaux Supérieur,bordeaux-superieur,bordeaux
+1,bouchard-pere-and-fils,Bouchard Père & Fils,Bourgogne Coteaux des Moines Pinot Noir,2015,3.6,Bourgogne,bourgogne,bourgogne
+2,fabien-trosset,Fabien Trosset,Avalanche Arbin Mondeuse,2016,3.8,Savoie,savoie,
+3,toasc,Domaine de Toasc,Bellet Rouge,2013,3.5,Bellet,bellet,
+4,roland-grangier,Domaine Grangier,Côte Granits Saint-Joseph,2016,4.2,Saint-Joseph,saint-joseph,saint-joseph
+5,chateau-de-rey,Château de Rey,Sisquò Rouge,2016,3.7,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+6,la-peira-en-damaisela,La Pèira en Damaisèla,Les Obriers de la Peira Terrasses du Larzac,2010,3.9,Terrasses du Larzac,terasses-du-larzac,languedoc-roussillon
+7,bernede-grand-poujeaux,Château La Bernède Grand Poujeaux,Moulis-en-Médoc,2012,3.6,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+8,barberousse,Château Barberousse,L'Espirit de Barberousse Saint-Emilion Grand Cru,2014,3.7,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+9,hauvette,Hauvette,Les Baux-de-Provence Rouge,2012,4.2,Les Baux-de-Provence,les-baux-de-provence,
+10,domaine-martin,Domaine Martin,Côtes du Rhône Rouge,2013,3.5,Côtes-du-Rhône,cotes-du-rhone,rhone
+11,robert-bernard-plageoles,Robert & Bernard Plageoles,Braucol,2017,3.7,Gaillac,gaillac,
+12,paul-blanck-and-fils,Paul Blanck,Schlossberg Riesling,N.V.,4.1,Alsace Grand Cru,alsace-grand-cru,alsace
+13,louis-cheze,Louis Chèze,Viognier,2014,3.9,Collines Rhodaniennes,igp-collines-rhodaniennes,rhone
+14,chateau-saint-pierre-lussac-st-emilion,Château Saint Pierre,Lussac Saint-Émilion,2012,3.5,Lussac-Saint-Émilion,lussac-st-emilion,bordeaux
+15,domaine-viret,Domaine Viret,Les Colonnades (Terre de Cosmoculture),2014,3.9,Côtes-du-Rhône-Villages 'Saint-Maurice',cotes-du-rhone-villages-saint-maurice,rhone
+16,chateau-de-laborde,Château de Laborde,Bordeaux Rouge,2009,3.4,Bordeaux,bordeaux,bordeaux
+17,chateau-des-annereaux,Château des Annereaux,Lalande-de-Pomerol,2010,3.7,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+18,l-ecu,Domaine de l'Ecu,Classic,2014,3.6,Loire Valley,loire-valley,loire-valley
+19,chateau-tour-haut-caussan,Château Tour Haut-Caussan,Médoc,2000,3.5,Médoc,medoc,bordeaux
+20,faiveley,Faiveley,Givry Champ Lalot Rouge,2017,3.7,Givry,givry,cote-chalonnaise
+21,christian-meffre,Christian Meffre,Chateau Raspail Gigondas,2012,3.8,Gigondas,gigondas,rhone
+22,andre-dezat-fils,Andre Dezat & Fils,Cuvée Prestige Sancerre Rouge,2014,4.0,Sancerre,sancerre,loire-valley
+23,jean-louis-tribouley,Jean-Louis Tribouley,Les Copines,2013,3.9,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+24,la-bastide,Château la Bastide,Merlot,2015,3.8,Aude,aude,languedoc-roussillon
+0,fr-rocher-figeac,Château Rocher-Figeac,Saint-Émilion,2014,3.7,Saint-Émilion,saint-emilion,bordeaux
+1,eyran,Château d'Eyran,Pessac-Léognan,2011,3.8,Pessac-Léognan,pessac-leognan,bordeaux
+2,chateau-eugenie,Château Eugénie,Cuvée Réservée de l'Aïeul Cahors,2010,3.9,Cahors,cahors,
+3,magence,Château Magence,Graves Rouge,2004,4.0,Graves,graves,bordeaux
+4,fr-vincent-sophie-morey,Vincent & Sophie Morey,Bâtard-Montrachet Grand Cru,2009,4.5,Bâtard-Montrachet Grand Cru,batard-montrachet-grand-cru,cote-de-beaune
+5,fr-perdrycourt,Perdrycourt,Petit Chablis,2016,4.1,Petit Chablis,petit-chablis,bourgogne
+6,chteau-siaurac,Château Siaurac,Baronne de Siaurac Lalande-de-Pomerol,2012,3.4,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+7,domaine-yves-cuilleron,Yves Cuilleron,Crozes-Hermitage Laya,2014,3.9,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+8,lignier-georges-et-fils,Georges Lignier et Fils,Morey-Saint-Denis,2013,3.8,Morey-Saint-Denis,morey-saint-denis,cote-de-nuits
+9,chateau-picque-caillou,Château Picque Caillou,Pessac-Léognan,1996,4.2,Pessac-Léognan,pessac-leognan,bordeaux
+10,des-homs,Domaine des Homs,Le Viognier,2017,4.1,Pays d'Oc,vin-de-pays-doc,languedoc-roussillon
+11,les-vins-contes,Les Vins Contes,Bois Sans Soif,2017,4.0,Vin de France,vin-de-pays-vignobles-de-france,
+12,chateau-de-la-liquiere,Château de la Liquiere,Cistus Blanc Faugères,2014,3.6,Faugères,faugeres,languedoc-roussillon
+13,pierre-henri-morel,Pierre Henri Morel,Châteauneuf-du-Pape,2011,3.7,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+14,fr-domaine-de-lhortus,Domaine de l'Hortus,Pic-Saint-Loup Classique Bergerie,2011,3.7,Pic-Saint-Loup,pic-saint-loup,languedoc-roussillon
+15,mas-amiel,Mas Amiel,Notre Terre,2014,3.7,Côtes du Roussillon Villages,cotes-du-roussillon-villages,languedoc-roussillon
+16,laroze,Château Laroze,Saint-Émilion Grand Cru (Grand Cru Classé),2002,3.7,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+17,domaine-comte-peraldi,Comte Peraldi,Ajaccio Rouge,2011,3.8,Ajaccio,ajaccio,
+18,charles-heidsieck,Charles Heidsieck,Brut Réserve Champagne,2012,4.2,Champagne,champagne,champagne
+19,laurent-perrier,Laurent-Perrier,Brut Millésimé Champagne,1996,4.1,Champagne,champagne,champagne
+20,mancey,Vignerons de Mancey,Bourgogne Chardonnay,2016,3.2,Bourgogne,bourgogne,bourgogne
+21,champagne-ruinart,Ruinart,Brut (R de Ruinart) Champagne,2014,4.2,Champagne,champagne,champagne
+22,champagne-ruinart,Ruinart,Brut (R de Ruinart) Champagne,2016,4.4,Champagne,champagne,champagne
+23,terre-de-mistral,Terre de Mistral,Pauline Côtes de Provence Rosé,N.V.,3.9,Méditerranée,vin-de-pays-de-mediterranee,provence
+24,chateau-rioublanc,Château Rioublanc,Bordeaux,2018,3.7,Bordeaux,bordeaux,bordeaux
+0,fr-jean-philippe-fichet,Jean-Philippe Fichet,Monthelie,2014,3.9,Monthélie,monthelie,cote-de-beaune
+1,hameau-touche-boeuf,Hameau Touche Boeuf,L'Effrontée Simon Gastrein,2018,3.9,Collines Rhodaniennes,igp-collines-rhodaniennes,
+2,fl,Domaine FL,Les Bergères Anjou Chenin,2016,4.1,Anjou,anjou,loire-valley
+3,borie-manoux,Borie Manoux,Le Clocher de Saint-Julien,2014,3.5,Saint-Julien,saint-julien,bordeaux
+4,feytit-lagrave,Château Feytit-Lagrave,Pomerol,2014,3.9,Pomerol,pomerol,bordeaux
+5,chateau-combelongue,Château Combelongue,Blaye - Côtes de Bordeaux,2016,3.8,Blaye - Côtes de Bordeaux,blaye-cotes-de-bordeaux,bordeaux
+6,borie-manoux,Borie Manoux,Chapelle de la Trinité Saint-Émilion,2015,3.7,Saint-Émilion,saint-emilion,bordeaux
+7,hourbanon,Château Hourbanon,Médoc,2015,3.7,Médoc,medoc,bordeaux
+8,lignane,Château de Lignane,Côtes du Rhône Villages 'Rochegude',2013,3.8,Côtes-du-Rhône-Villages 'Rochegude',cotes-du-rhone-villages-rochegude,rhone
+9,wilfried,Wilfried,Rasteau,2016,3.5,Rasteau,rasteau,rhone
+10,le-clos-des-fees,Domaine du Clos des Fées,Le Clos des Fées (Hervé Bizeul),2007,4.3,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+11,maison-albera,Maison Albera,Vignes d'Altitude Carignan Noir,2018,3.6,Côtes Catalanes,cotes-catalanes,
+12,bel-air-la-royere,Chateau Bel-Air La Royère,Blaye,2014,3.9,Blaye,blaye,bordeaux
+13,clos-perdus,Les Clos Perdus,Cuvée Corbières,2017,4.0,Corbières,corbieres,languedoc-roussillon
+14,domaine-de-la-rectorie,Domaine de la Rectorie,Côté Mer Collioure Rosé,2017,4.0,Collioure,collioure,languedoc-roussillon
+15,chambert-marbuzet,Château Chambert-Marbuzet,Saint-Estèphe,2015,3.8,Saint-Estèphe,saint-estephe,bordeaux
+16,domaine-isabelle-philippe-germain,Domaine Isabelle & Philippe Germain,Monthélie Rouge,2017,3.7,Monthélie,monthelie,cote-de-beaune
+17,le-joncieux,Château Le Joncieux,Blaye - Côtes de Bordeaux,2016,3.7,Blaye - Côtes de Bordeaux,blaye-cotes-de-bordeaux,bordeaux
+18,mont,Château du Mont,Sainte-Croix-du-Mont,2016,4.1,Saint-Croix-du-Mont,saint-croix-du-mont,
+19,marie-dupin,Marie Dupin,Bourgueil,2017,3.3,Bourgueil,bourgueil,
+20,mouton-cadet,Mouton Cadet,Bordeaux Rouge,1991,3.8,Bordeaux,bordeaux,bordeaux
+21,mas-becha,Mas Becha,Excellence Roussillon,2017,3.8,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+22,chateau-morillon,Château Morillon,Saint-Émilion Grand Cru,2014,3.6,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+23,fr-benoit-cantin,Benoit Cantin,Irancy,2017,3.7,Irancy,irancy,bourgogne
+24,chateau-venus,Château Venus,Graves Rouge,2016,3.5,Graves,graves,bordeaux
+0,pascal-berthier,Pascal Berthier,Esprit de Séduction Saint-Amour,2017,3.7,Saint-Amour,saint-amour,beaujolais
+1,chateau-val-joanis,Château Val Joanis,Les Griottes Luberon,2017,4.0,Luberon,luberon,rhone
+2,joseph-mellot,Joseph Mellot,Les Collinettes Sancerre,2018,3.7,Sancerre,sancerre,loire-valley
+3,hares,Harès,Rosé,N.V.,3.6,Méditerranée,vin-de-pays-de-mediterranee,
+4,messile-aubert,Château Messile Aubert,Montagne-Saint-Émilion,2015,3.5,Montagne-Saint-Émilion,montagne-saint-emilion,bordeaux
+5,celestiere,La Célestière,Vin de Pays de Vaucluse,2016,3.6,Vaucluse,vaucluse,languedoc-roussillon
+6,regis-descotes,Regis Descotes,Prestige Coteaux du Lyonnais Rouge,2016,4.0,Coteaux du Lyonnais,coteaux-du-lyonnais,
+7,les-hauts-conseillants,Château Les Hauts-Conseillants,Lalande-de-Pomerol,2010,3.9,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+8,ferme-blanche,Ferme Blanche,Cassis Blanc,2015,3.7,Cassis,cassis,
+9,fr-selene,Séléné,Beaujolais,2018,4.0,Beaujolais,beaujolais,beaujolais
+10,les-vins-contes,Les Vins Contes,Cheville de Fer,2017,4.0,Vin de France,vin-de-pays-vignobles-de-france,
+11,les-vignobles-des-cotes-d-agly,Les Vignobles des Côtes d'Agly,Château Montner Rivesaltes Ambré Doux Naturel,2003,4.3,Rivesaltes,rivesaltes,
+12,joseph-mellot,Joseph Mellot,Les Collinettes Sancerre,2015,3.8,Sancerre,sancerre,loire-valley
+13,la-tour-blanche,Château La Tour Blanche,Les Charmilles de Tour Blanche Sauternes,2009,3.8,Sauternes,sauternes,bordeaux
+14,henri-bonnaud,Château Henri Bonnaud,Palette Rouge,2016,3.9,Palette,palette,
+15,blard-fils,Blard & Fils,Cuvée Thomas Apremont,2018,3.5,Vin de Savoie,vin-de-savoie,
+16,de-la-soujeole,Château de la Soujeole,Malepère Rouge,2014,3.7,Malepère,cotes-de-malepere,languedoc-roussillon
+17,coureau-and-coureau,Coureau & Coureau,La Croix Mazarin,2016,3.6,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+18,chateau-malescot-st-exupery,Château Malescot St. Exupery,Margaux (Grand Cru Classé),1993,4.1,Margaux,margaux,bordeaux
+19,brunel-de-la-gardine,Brunel de la Gardine,Gigondas,2013,3.7,Gigondas,gigondas,rhone
+20,chateau-cantemerle,Château Cantemerle,Haut-Médoc (Grand Cru Classé),1993,3.7,Haut-Médoc,haut-medoc,bordeaux
+21,jourdan-and-pichard,Jourdan & Pichard,Les Gravinières Cabernet Franc,2015,3.7,Chinon,chinon,
+22,chateau-de-saint-martin,Château de Saint Martin,No 2 de Saint-Martin Côtes de Provence Rosé,2018,3.7,Côtes de Provence,cotes-de-provence,provence
+23,chateau-morillon,Château Morillon,Saint-Émilion Grand Cru,2014,3.6,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+24,fr-benoit-cantin,Benoit Cantin,Irancy,2017,3.7,Irancy,irancy,bourgogne
+0,la-rose-pauillac,La Rose Pauillac,Pauillac,1999,4.0,Pauillac,pauillac,bordeaux
+1,deprade-jorda,Deprade Jorda,Prémices Rosé,N.V.,3.5,Côtes Catalanes,cotes-catalanes,languedoc-roussillon
+2,fiumicicoli,Fiumicicoli,Corse Sartene Blanc,2018,3.7,Corsica,corsica,
+3,fr-les-vignerons-de-buzet,Les Vignerons de Buzet,Tradition Rouge,2017,2.9,Buzet,buzet,
+4,mas-becha,Mas Becha,Excellence Roussillon,2017,3.8,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+5,chateau-venus,Château Venus,Graves Rouge,2016,3.5,Graves,graves,bordeaux
+6,chateau-haut-moulin-bordeaux,Château Haut Moulin,Blaye - Côtes de Bordeaux Vieilles Vignes,2017,3.7,Blaye - Côtes de Bordeaux,blaye-cotes-de-bordeaux,bordeaux
+7,domaine-parent,Parent,Pommard Premier Cru de 'Les Chaponnières',2011,4.2,Pommard 1er Cru 'Les Chaponnières',les-chaponnieres,cote-de-beaune
+8,fabrice-gasnier,Fabrice Gasnier,Les Graves Chinon,2018,3.9,Chinon,chinon,
+9,chateau-val-joanis,Château Val Joanis,Tradition Luberon,2017,3.7,Luberon,luberon,rhone
+10,fr-vignerons-catalans,Vignerons Catalans,Haute Coutume Rivesaltes Ambré,1976,4.1,Rivesaltes,rivesaltes,
+11,mouton-cadet,Mouton Cadet,Bordeaux Rouge,1991,3.8,Bordeaux,bordeaux,bordeaux
+12,georges-clement,Georges Clément,Cuvée Tradition Brut Champagne,N.V.,3.6,Champagne,champagne,champagne
+13,hospices-de-beaujeu,Hospices de Beaujeu,Bourgogne Gamay,2018,3.8,Bourgogne,bourgogne,bourgogne
+14,cantegric,Château Cantegric,Haut-Médoc,2014,3.4,Haut-Médoc,haut-medoc,bordeaux
+15,domaine-de-la-croix-senaillet,Domaine de la Croix Senaillet,Saint-Véran,2016,3.7,Saint-Véran,saint-veran,maconnais
+16,leoube,Château Léoube,Rouge de Léoube,2015,3.8,Côtes de Provence,cotes-de-provence,rhone
+17,leoube,Château Léoube,Blanc de Léoube,2017,4.0,Côtes de Provence,cotes-de-provence,rhone
+18,jean-francois-protheau,Jean-Francois Protheau,Rully 1er Cru 'Les Gresigny',2015,4.0,Rully 1er Cru 'Gresigny',rully-gresigny,cote-chalonnaise
+19,chateau-sanctus,Chateau Sanctus,Saint-Émilion Grand Cru,2015,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+20,chateau-dassault,Château Dassault,Saint-Émilion Grand Cru (Grand Cru Classé),1994,4.1,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+21,chateau-de-la-gardine,Château de la Gardine,Rasteau,2016,3.8,Rasteau,rasteau,rhone
+22,maxime-magnon,Maxime Magnon,Rozeta Corbières,2017,4.1,Corbières,corbieres,languedoc-roussillon
+23,david-duband,David Duband,Bourgogne Hautes-Côtes de Nuits,2017,3.8,Bourgogne Hautes-Côtes de Nuits,bourgogne-hautes-cotes-de-nuits,bourgogne
+24,domaine-la-fourmone,Domaine la Fourmone,Le Fauquet Gigondas,2017,4.0,Gigondas,gigondas,rhone
+0,chateau-le-sartre,Château Le Sartre,Pessac-Léognan,2015,3.8,Pessac-Léognan,pessac-leognan,bordeaux
+1,joseph-drouhin,Joseph Drouhin,Chorey-Les-Beaune,2015,3.8,Chorey-lès-Beaune,chorey-les-beaune,cote-de-beaune
+2,thevenet,Thevenet & Fils,Domaine de la Bongran Cuvée E.J.Thévenet Viré-Clessé,2013,4.3,Viré-Clessé,vire-clesse,maconnais
+3,gandines,Domaine des Gandines,Mâcon Villages,2018,3.9,Mâcon-Villages,macon-villages,maconnais
+4,domaine-gilles-barge,Gilles Barge,Le Combard Côte-Rôtie,2016,4.0,Côte-Rôtie,cote-rotie,rhone
+5,fr-domaine-de-cantarelle,Domaine de Cantarelle,Triplette Côtes de Provence Rosé,2018,3.7,Côtes de Provence,cotes-de-provence,provence
+6,rouquette-sur-mer,Château Rouquette Sur Mer,Cuvée Arpège La Clape,2017,3.4,La Clape,languedoc-la-clape,languedoc-roussillon
+7,j-mourat,J. Mourat,O.V.N.I Rosé,N.V.,4.0,Loire Valley,loire-valley,
+8,monsieur-moustache,Monsieur Moustache,Rouge,2017,3.3,Bordeaux,bordeaux,
+9,demon-noir,Demon Noir,Noir,2018,3.4,Côtes du Lot,cotes-du-lot,
+10,thierry-massin,Thierry Massin,Réserve Brut Champagne,N.V.,3.6,Champagne,champagne,champagne
+11,de-villegeorge,Château de Villegeorge,Haut-Médoc,1998,3.8,Haut-Médoc,haut-medoc,bordeaux
+12,jonqueres-d-oriola,Vignobles Jonqueres d'Oriola,La Canaille Rouge,2017,3.7,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+13,fr-l-hospitalet,Château l'Hospitalet,Art du Vivre La Clape,2018,3.9,La Clape,languedoc-la-clape,languedoc-roussillon
+14,haut-madrac-126784,Château Haut-Madrac,Haut-Médoc,2013,3.9,Haut-Médoc,haut-medoc,bordeaux
+15,tariquet,Domaine du Tariquet,Côtes De Gascogne Amplitude,2017,3.3,Côtes de Gascogne,cotes-de-gascogne,
+16,mas-amiel,Mas Amiel,Initial,2015,3.7,Maury,maury,languedoc-roussillon
+17,olivier-pithon,Olivier Pithon,Le Pilou,2014,4.0,Languedoc-Roussillon,languedoc-roussillon,languedoc-roussillon
+18,agnes-paquet,Agnès Paquet,Auxey-Duresses Rouge,2017,4.0,Auxey-Duresses,auxey-duresses,cote-de-beaune
+19,domaine-coche-dury,Domaine Coche-Dury,Bourgogne Chardonnay,2009,4.4,Bourgogne,bourgogne,bourgogne
+20,montirius,Montirius,Terre des Aînés Gigondas,2015,3.7,Gigondas,gigondas,rhone
+21,domaine-des-huards,Domaine des Huards,Pure Cheverny,2018,3.9,Cheverny,cheverny,loire-valley
+22,benjamin-taillandier,Domaine Benjamin Taillandier,Laguzelle Minervois,2017,3.6,Minervois,minervois,languedoc-roussillon
+23,serol,Sérol,Perdrizière Côte Roannaise,2017,3.6,Côte Roannaise,cote-roannaise,
+24,domaine-coche-dury,Domaine Coche-Dury,Bourgogne Chardonnay,2013,4.4,Bourgogne,bourgogne,bourgogne
+0,christophe-pichon,Domaine Christophe Pichon,Allégorie Cornas,2017,4.0,Cornas,cornas,cornas
+1,de-sousa-and-fils,De Sousa,Cuvée des Caudalies Brut Millesimé Champagne Grand Cru 'Avize',N.V.,4.2,Champagne Grand Cru 'Avize',champagne-grand-cru-avize,champagne
+2,champagne-franck-bonville,Franck Bonville,Les Belles Voyes Blanc de Blancs Brut Champagne Grand Cru 'Avize',N.V.,4.3,Champagne Grand Cru 'Avize',champagne-grand-cru-avize,champagne
+3,rene-geoffroy,Geoffroy,Les Houtrants Complantés Brut Nature Champagne Premier Cru,N.V.,4.1,Champagne Premier Cru,champagne-premier-cru,champagne
+4,chateau-la-tour-de-mons,Château La Tour de Mons,Margaux,1998,4.2,Margaux,margaux,bordeaux
+5,josmeyer-and-fils-sa,Josmeyer,Pinot Gris Grand Cru Hengst,2010,4.2,Alsace Grand Cru 'Hengst',alsace-grand-cru-hengst,alsace
+6,louis-latour,Louis Latour,Domaine Latour Corton Grand Cru,2011,4.1,Corton Grand Cru,corton,cote-de-beaune
+7,champagne-laller,Lallier,Sélection Parcellaire Les Sous Blanc de Noir Champagne Grand Cru 'Aÿ',N.V.,4.4,Champagne Grand Cru 'Aÿ',champagne-grand-cru-ay,champagne
+8,andre-beaufort-44248,André Beaufort,Brut Champagne Grand Cru 'Ambonnay',2003,4.1,Champagne Grand Cru 'Ambonnay',champagne-grand-cru-ambonnay,champagne
+9,la-grolet,Château la Grolet,Côtes de Bourg,2017,3.5,Côtes de Bourg,cotes-de-bourg,bordeaux
+10,domaine-piron-lameloise,Domaine Piron Lameloise,Domaine de La Chanaise Beaujolais Blanc,2018,3.8,Beaujolais,beaujolais,
+11,antonin-rodet,Antonin Rodet,Chateau de Rully 1er Cru 'Clos La Bressande'  Monopole,2016,3.9,Rully 1er Cru 'La Bressande',rully-la-bressande,cote-chalonnaise
+12,henri-delagrange-et-fils,Domaine Henri Delagrange et Fils,Vieilles Vignes Volnay,2017,4.0,Volnay,volnay,cote-de-beaune
+13,frontenac,Château Frontenac,Bordeaux Rouge,2016,3.4,Bordeaux,bordeaux,bordeaux
+14,pannier,Pannier,Exact Extra Brut Champagne,N.V.,3.6,Champagne,champagne,champagne
+15,minuty,Minuty,Bailly Rouge,2017,3.5,Côtes de Provence,cotes-de-provence,
+16,laville-bertrou,Château Laville Bertrou,Minervois La Livinière,2017,4.1,Minervois La Livinière,minervois-la-liviniere,languedoc-roussillon
+17,laville-bertrou,Château Laville Bertrou,Minervois La Livinière,2016,4.1,Minervois La Livinière,minervois-la-liviniere,languedoc-roussillon
+18,lionel-osmin-cie,Lionel Osmin & Cie,Mansois Marcillac,2016,3.4,Marcillac,marcillac,
+19,comte-lafond,Comte Lafond,Sancerre Grande Cuvée Rouge,2014,4.1,Sancerre,sancerre,loire-valley
+20,fr-domaine-de-la-solitude,Domaine de la Solitude,Rosé,2017,3.6,Bordeaux,bordeaux,
+21,gerard-bertrand,Gérard Bertrand,Clairette du Languedoc Adissan Art de Vivre,2018,3.7,Clairette de Languedoc,clairette-de-languedoc,languedoc-roussillon
+22,champagne-duval-leroy,Duval-Leroy,Précieuse Parcelle Clos des Bouveries Brut Champagne,2005,4.1,Champagne,champagne,champagne
+23,chateau-tour-de-pez,Château Tour de Pez,Les Hauts de Pez Saint-Estèphe,2014,3.7,Saint-Estèphe,saint-estephe,bordeaux
+24,cerons,Château de Cérons,Graves,2015,3.8,Graves,graves,bordeaux
+0,passeport,Passeport,Margaux,2014,3.6,Margaux,margaux,bordeaux
+1,bouchard-pere-and-fils,Bouchard Père & Fils,Aloxe-Corton,2014,3.8,Aloxe-Corton,aloxe-corton,cote-de-beaune
+2,alain-thienot,Thienot,Cuvée Stanislas Blanc de Blancs Champagne,2006,4.1,Champagne,champagne,champagne
+3,lacaussade-saint-martin,Château Lacaussade Saint Martin,Blaye Côtes de Bordeaux,2016,3.6,Blaye - Côtes de Bordeaux,blaye-cotes-de-bordeaux,bordeaux
+4,alain-thienot,Thienot,Vintage Champagne,2007,4.0,Champagne,champagne,champagne
+5,deutz,Deutz,Blanc de Blancs Brut Champagne,N.V.,4.2,Champagne,champagne,champagne
+6,fr-vranken,Vranken,Demoiselle E.O. Premium Cuvée Brut Champagne,N.V.,3.7,Bordeaux,bordeaux,champagne
+7,champagne-faniel-fils,Faniel & Fils,Agapane Brut Champagne,N.V.,4.0,Champagne,champagne,champagne
+8,chateau-lagrange,Château Lagrange,Les Arums de Lagrange Bordeaux,2015,3.8,Bordeaux,bordeaux,bordeaux
+9,bouchard-pere-and-fils,Bouchard Père & Fils,Beaune Premier Cru Teurons,2014,3.6,Beaune Premier Cru,beaune-premier-cru,cote-de-beaune
+10,nicolas-feuillatte,Nicolas Feuillatte,Collection Blanc de Blancs Brut Champagne (Vintage),2012,4.0,Champagne,champagne,champagne
+11,chateau-roubine,Château Roubine,Cuvée R Côtes de Provence Rosé,2018,3.7,Côtes de Provence,cotes-de-provence,provence
+12,anne-de-joyeuse,Anne de Joyeuse,La Butinière Limoux,2017,3.9,Limoux,limoux,languedoc-roussillon
+13,chateau-la-variere,Château la Varière,Cabernet Sauvignon Anjou-Villages 'Brissac',2015,3.0,Anjou-Villages 'Brissac',anjou-villages-brissac,
+14,domaine-piron-lameloise,Domaine Piron Lameloise,Domaine de La Chanaise Morgon,2017,3.3,Morgon,morgon,beaujolais
+15,gilbert-and-gaillard,Gilbert & Gaillard,Pour les Amis Saint-Chinian,2015,3.6,Saint-Chinian,saint-chinian,languedoc-roussillon
+16,haut-gazeau,Château Haut-Gazeau,Lussac-Saint-Émilion,2016,3.8,Lussac-Saint-Émilion,lussac-st-emilion,bordeaux
+17,chateau-petit-bocq,Château Petit Bocq,Saint-Estèphe,2013,3.8,Saint-Estèphe,saint-estephe,bordeaux
+18,regis-minet,Régis Minet,Le Désert Pouilly-Fumé,2018,3.8,Pouilly-Fumé,pouilly-fume,loire-valley
+19,gerard-bertrand,Gérard Bertrand,Grenache - Carignan Fitou Terroir ,2017,3.7,Fitou,fitou,languedoc-roussillon
+20,peymartin,Château Peymartin,Saint-Julien,2015,3.6,Saint-Julien,saint-julien,bordeaux
+21,domaine-piron-lameloise,Domaine Piron Lameloise,Chiroubles,2017,3.5,Chiroubles,chiroubles,beaujolais
+22,chateau-roubine,Château Roubine,R de Roubine Côtes de Provence,2018,3.8,Côtes de Provence,cotes-de-provence,
+23,bastide-des-songes,Bastide des Songes,Peyre Brune,N.V.,4.0,Hérault,pays-dherault,languedoc-roussillon
+24,brunel-de-la-gardine,Brunel de la Gardine,Gigondas,2012,3.7,Gigondas,gigondas,rhone
+0,chateau-feytit-clinet,Château Feytit-Clinet,Pomerol,2001,4.1,Pomerol,pomerol,bordeaux
+1,fr-la-grave,Château La Grave (Trigant de Boisset),Pomerol,2000,4.1,Pomerol,pomerol,bordeaux
+2,domaine-henri-naudin-ferrand,Henri Naudin-Ferrand,Clematís Vítalba,2016,4.0,Bourgogne Hautes-Côtes de Nuits,bourgogne-hautes-cotes-de-nuits,bourgogne
+3,van-remoortere,Antoine Van Remoortere,Menetou-Salon Rouge,2017,3.9,Menetou-Salon,menetou-salon,loire-valley
+4,fr-domaine-trapet,Domaine Trapet,Riquewihr Riesling Alsace,2014,3.7,Alsace,alsace,alsace
+5,domaine-du-colombier,Domaine du Colombier,Crozes-Hermitage Cuvée Gaby,2016,3.9,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+6,chateau-lilian-ladouys,Château Lilian Ladouys,Saint-Estèphe,2001,3.9,Saint-Estèphe,saint-estephe,bordeaux
+7,thunevin-calvet,Thunevin-Calvet,Cuvée Constance Côtes du Roussillon Villages,2016,3.7,Côtes du Roussillon Villages,cotes-du-roussillon-villages,rhone
+8,clos-vieux-taillefer,Clos Vieux Taillefer,Pomerol,2012,3.9,Pomerol,pomerol,bordeaux
+9,les-vignerons-destezargues,Domaine la Montagnette,Côtes du Rhône Villages Signargues,2018,3.7,Côtes-du-Rhône-Villages 'Signargues',cotes-du-rhone-villages-signargues,rhone
+10,montirius,Montirius,Terre des Aînés Gigondas,2015,3.7,Gigondas,gigondas,rhone
+11,nicolas-pere-fils,Nicolas Pere & Fils,Essentielle Côtes du Rhône Rouge,2013,3.3,Côtes-du-Rhône,cotes-du-rhone,rhone
+12,marquis-d-alesme-becker,Château Marquis d'Alesme,Margaux (Grand Cru Classé),1998,4.0,Margaux,margaux,bordeaux
+13,chateau-carbonnieux,Château Carbonnieux,Pessac-Léognan Blanc (Grand Cru Classé de Graves),1999,3.8,Pessac-Léognan,pessac-leognan,bordeaux
+14,domaine-coche-dury,Domaine Coche-Dury,Puligny-Montrachet Les Enseignères,2005,4.5,Puligny-Montrachet,puligny-montrachet,cote-de-beaune
+15,hauvette,Hauvette,Les Hauteurs Arpège,2011,4.0,Côtes du Roussillon,cotes-du-roussillon,languedoc-roussillon
+16,chateau-le-sartre,Château Le Sartre,Le S du Sartre Pessac-Léognan,2014,3.8,Pessac-Léognan,pessac-leognan,bordeaux
+17,lalaudey,Château Lalaudey - Château Pomeys,Château Lalaudey Moulis-en-Médoc,2015,3.8,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+18,gandines,Domaine des Gandines,Mâcon Villages,2018,3.9,Mâcon-Villages,macon-villages,maconnais
+19,agnes-paquet,Agnès Paquet,Auxey-Duresses Rouge,2017,4.0,Auxey-Duresses,auxey-duresses,cote-de-beaune
+20,mas-amiel,Mas Amiel,Initial,2015,3.7,Maury,maury,languedoc-roussillon
+21,tariquet,Domaine du Tariquet,Côtes De Gascogne Amplitude,2017,3.3,Côtes de Gascogne,cotes-de-gascogne,
+22,thevenet,Thevenet & Fils,Domaine de la Bongran Cuvée E.J.Thévenet Viré-Clessé,2013,4.3,Viré-Clessé,vire-clesse,maconnais
+23,olivier-pithon,Olivier Pithon,Le Pilou,2014,4.0,Languedoc-Roussillon,languedoc-roussillon,languedoc-roussillon
+24,domaine-coche-dury,Domaine Coche-Dury,Bourgogne Chardonnay,2009,4.4,Bourgogne,bourgogne,bourgogne
+0,chateau-lagrange,Château Lagrange,Les Fiefs de Lagrange Saint-Julien,1989,4.2,Saint-Julien,saint-julien,bordeaux
+1,puy-razac,Château Puy-Razac,Saint-Émilion Grand Cru,2016,3.7,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+2,chateau-caroline,Château Caroline,Moulis-en-Médoc,2016,3.8,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+3,domaines-ott,Domaines Ott,Château de Selle Comtes de Provence Rouge,2012,4.0,Côtes de Provence,cotes-de-provence,
+4,granins-grand-poujeaux,Château Granins Grand-Poujeaux,Château Tour Granins Grand Poujeaux Moulis-en-Médoc,2009,4.1,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+5,chateau-d-issan,Château d'Issan,Blason d'Issan Margaux,2009,3.9,Margaux,margaux,bordeaux
+6,albert-bichot,Albert Bichot,Volnay,2012,3.8,Volnay,volnay,cote-de-beaune
+7,clos-des-galevesses,Clos des Galevesses,Lalande de Pomerol,2014,3.5,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+8,chateau-bastor-lamontagne,Château Bastor-Lamontagne,Sauternes,2012,3.9,Sauternes,sauternes,bordeaux
+9,pontac-lynch,Château Pontac Lynch,Margaux,2010,4.0,Margaux,margaux,bordeaux
+10,domaine-harmand-geoffroy,Harmand-Geoffroy,Mazis-Chambertin Grand Cru,2011,4.5,Mazis-Chambertin Grand Cru,mazis-chambertin,cote-de-nuits
+11,domaine-arnoux-lachaux,Domaine Arnoux-Lachaux,Les Hautes Maizieres Vosne-Romanée,2014,4.2,Vosne-Romanée,vosne-romanee,cote-de-nuits
+12,faiveley,Faiveley,Nuits-Saint-Georges 1er Cru Les Damodes,2010,4.0,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+13,chateau-ferriere,Château Ferrière,Margaux (Grand Cru Classé),2009,3.9,Margaux,margaux,bordeaux
+14,chateau-balestard-la-tonnelle,Château Balestard La Tonnelle,Saint-Émilion Grand Cru (Grand Cru Classé),2010,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+15,fr-jean-philippe-fichet,Jean-Philippe Fichet,Meursault,2014,4.2,Meursault,meursault,cote-de-beaune
+16,chateau-la-tour-de-mons,Château La Tour de Mons,Marquis de Mons Margaux,2013,3.8,Margaux,margaux,bordeaux
+17,ormes-sorbet,Château Les Ormes Sorbet,Médoc,2012,3.9,Médoc,medoc,bordeaux
+18,faiveley,Faiveley,Givry Champ Lalot Rouge,2018,3.7,Givry,givry,cote-chalonnaise
+19,chateau-clamens,Château Clamens,Fronton Rouge,2016,3.6,Fronton,fronton,
+20,chateau-le-sartre,Château Le Sartre,Pessac-Léognan,2016,3.8,Pessac-Léognan,pessac-leognan,bordeaux
+21,jean-fournier,Jean Fournier,Marsannay 'Les Longeroies' Rouge,2016,4.0,Marsannay,marsannay,cote-de-nuits
+22,chateau-rieussec,Château Rieussec,Sauternes (Premier Grand Cru Classé),1998,4.4,Sauternes,sauternes,bordeaux
+23,bolaire,Château Bolaire,Bordeaux Supérieur,2011,3.8,Bordeaux Supérieur,bordeaux-superieur,bordeaux
+24,marcel-deiss,Marcel Deiss,Riesling Alsace Grand Cru 'Altenberg de Bergheim',2011,4.3,Alsace Grand Cru 'Altenberg de Bergheim',alsace-grand-cru-altenberg-de-bergheim,alsace
+0,champagne-franck-bonville,Franck Bonville,Les Belles Voyes Blanc de Blancs Brut Champagne Grand Cru 'Avize',N.V.,4.3,Champagne Grand Cru 'Avize',champagne-grand-cru-avize,champagne
+1,de-sousa-and-fils,De Sousa,Cuvée des Caudalies Brut Millesimé Champagne Grand Cru 'Avize',N.V.,4.2,Champagne Grand Cru 'Avize',champagne-grand-cru-avize,champagne
+2,josmeyer-and-fils-sa,Josmeyer,Pinot Gris Grand Cru Hengst,2010,4.2,Alsace Grand Cru 'Hengst',alsace-grand-cru-hengst,alsace
+3,fr-champagne-mailly-grand-cru,Mailly,Exception Blanche,2000,4.2,Champagne Grand Cru,champagne-grand-cru,champagne
+4,louis-latour,Louis Latour,Domaine Latour Corton Grand Cru,2011,4.1,Corton Grand Cru,corton,cote-de-beaune
+5,rene-geoffroy,Geoffroy,Les Houtrants Complantés Brut Nature Champagne Premier Cru,N.V.,4.1,Champagne Premier Cru,champagne-premier-cru,champagne
+6,andre-beaufort-44248,André Beaufort,Brut Champagne Grand Cru 'Ambonnay',2003,4.1,Champagne Grand Cru 'Ambonnay',champagne-grand-cru-ambonnay,champagne
+7,cirque,Vignerons de Tautavel Vingrau,Le Cirque Rouge,2017,3.6,Côtes Catalanes,cotes-catalanes,languedoc-roussillon
+8,champagne-laller,Lallier,Sélection Parcellaire Les Sous Blanc de Noir Champagne Grand Cru 'Aÿ',N.V.,4.4,Champagne Grand Cru 'Aÿ',champagne-grand-cru-ay,champagne
+9,pannier,Pannier,Exact Extra Brut Champagne,N.V.,3.6,Champagne,champagne,champagne
+10,minuty,Minuty,Bailly Rouge,2017,3.5,Côtes de Provence,cotes-de-provence,
+11,comte-lafond,Comte Lafond,Sancerre Grande Cuvée Rouge,2014,4.1,Sancerre,sancerre,loire-valley
+12,lionel-osmin-cie,Lionel Osmin & Cie,Mansois Marcillac,2016,3.4,Marcillac,marcillac,
+13,fr-domaine-de-la-solitude,Domaine de la Solitude,Rosé,2017,3.6,Bordeaux,bordeaux,
+14,gerard-bertrand,Gérard Bertrand,Grenache - Carignan Fitou Terroir ,2017,3.7,Fitou,fitou,languedoc-roussillon
+15,laville-bertrou,Château Laville Bertrou,Minervois La Livinière,2017,4.1,Minervois La Livinière,minervois-la-liviniere,languedoc-roussillon
+16,laville-bertrou,Château Laville Bertrou,Minervois La Livinière,2016,4.1,Minervois La Livinière,minervois-la-liviniere,languedoc-roussillon
+17,gerard-bertrand,Gérard Bertrand,Clairette du Languedoc Adissan Art de Vivre,2018,3.7,Clairette de Languedoc,clairette-de-languedoc,languedoc-roussillon
+18,la-grolet,Château la Grolet,Côtes de Bourg,2017,3.5,Côtes de Bourg,cotes-de-bourg,bordeaux
+19,passeport,Passeport,Margaux,2014,3.6,Margaux,margaux,bordeaux
+20,bouchard-pere-and-fils,Bouchard Père & Fils,Aloxe-Corton,2014,3.8,Aloxe-Corton,aloxe-corton,cote-de-beaune
+21,cerons,Château de Cérons,Graves,2015,3.8,Graves,graves,bordeaux
+22,haut-gazeau,Château Haut-Gazeau,Lussac-Saint-Émilion,2016,3.8,Lussac-Saint-Émilion,lussac-st-emilion,bordeaux
+23,chateau-roubine,Château Roubine,Cuvée R Côtes de Provence Rosé,2018,3.7,Côtes de Provence,cotes-de-provence,provence
+24,anne-de-joyeuse,Anne de Joyeuse,La Butinière Limoux,2017,3.9,Limoux,limoux,languedoc-roussillon
+0,romer-du-hayot,Château Romer du Hayot,Sauternes (Grand Cru Classé),2003,4.1,Sauternes,sauternes,bordeaux
+1,chateau-sanctus,Chateau Sanctus,Saint-Émilion Grand Cru,2011,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+2,chateau-grand-puy-ducasse,Château Grand-Puy Ducasse,Prelude a Grand-Puy Ducasse Pauillac,2013,3.9,Pauillac,pauillac,bordeaux
+3,chateau-marjosse,Château Marjosse,Bordeaux Blanc,2015,3.6,Bordeaux,bordeaux,bordeaux
+4,chateau-lafaurie-peyraguey,Château Lafaurie-Peyraguey,Sauternes (Premier Grand Cru Classé),2012,3.9,Sauternes,sauternes,bordeaux
+5,haut-brion,Château Haut-Brion,La Clarté de Haut-Brion Pessac-Léognan Blanc (Les Plantiers du Haut-Brion),2005,4.0,Pessac-Léognan,pessac-leognan,bordeaux
+6,chateau-maucaillou,Château Maucaillou,No. 2 de Maucaillou Moulis,2015,3.9,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+7,chateau-la-pointe,Château La Pointe,Pomerol,2001,4.0,Pomerol,pomerol,bordeaux
+8,chateau-pavillon-beauregard,Château Pavillon Beauregard,Lalande de Pomerol,2016,4.1,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+9,l-hermitage,Chateau Tauzinat l'Hermitage,Saint-Émilion Grand Cru,2016,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+10,vieux-saint-andre,Famille Berrouet,Vieux Château Saint André Montagne-Saint-Émilion,2014,4.0,Montagne-Saint-Émilion,montagne-saint-emilion,bordeaux
+11,jeff-carrel,Jeff Carrel,Les Darons Rouge,2018,3.7,Languedoc,languedoc,languedoc-roussillon
+12,chteau-deyrem-valentin,Château Deyrem Valentin,Margaux,2013,3.9,Margaux,margaux,bordeaux
+13,chateau-larmande,Château Larmande,Saint-Émilion Grand Cru (Grand Cru Classé),2007,3.8,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+14,chateau-mazeyres,Château Mazeyres,Pomerol,2003,3.9,Pomerol,pomerol,bordeaux
+15,marrenon-southern-rhone,Marrenon,Grand Marrenon Rouge,2017,3.9,Luberon,luberon,rhone
+16,joanin-bcot,Château Joanin Bécot,Castillon - Côtes de Bordeaux,2015,3.8,Castillon - Côtes de Bordeaux,cotes-de-castillon,bordeaux
+17,chateau-grand-puy-lacoste,Château Grand-Puy-Lacoste,Lacoste Borie Pauillac,2013,3.8,Pauillac,pauillac,bordeaux
+18,chateau-balestard-la-tonnelle,Château Balestard La Tonnelle,Saint-Émilion Grand Cru (Grand Cru Classé),2010,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+19,chateau-d-issan,Château d'Issan,Blason d'Issan Margaux,2009,3.9,Margaux,margaux,bordeaux
+20,granins-grand-poujeaux,Château Granins Grand-Poujeaux,Château Tour Granins Grand Poujeaux Moulis-en-Médoc,2009,4.1,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+21,chateau-bastor-lamontagne,Château Bastor-Lamontagne,Sauternes,2012,3.9,Sauternes,sauternes,bordeaux
+22,chateau-ferriere,Château Ferrière,Margaux (Grand Cru Classé),2009,3.9,Margaux,margaux,bordeaux
+23,chateau-siran,Château Siran,Margaux,1995,3.8,Margaux,margaux,bordeaux
+24,faiveley,Faiveley,Givry Champ Lalot Rouge,2018,3.7,Givry,givry,cote-chalonnaise
+0,chateau-roubine,Château Roubine,R de Roubine Côtes de Provence,2018,3.8,Côtes de Provence,cotes-de-provence,
+1,domaine-piron-lameloise,Domaine Piron Lameloise,Chiroubles,2017,3.5,Chiroubles,chiroubles,beaujolais
+2,chateau-d-agassac,Château d'Agassac,L'Agassant NT Haut-Médoc,2010,3.4,Haut-Médoc,haut-medoc,bordeaux
+3,baron-philippe-de-rothschild-sa,Baron Philippe de Rothschild,Agneau Bordeaux Blanc,2017,3.3,Bordeaux,bordeaux,bordeaux
+4,bastide-des-songes,Bastide des Songes,Peyre Brune,N.V.,4.0,Hérault,pays-dherault,languedoc-roussillon
+5,brunel-de-la-gardine,Brunel de la Gardine,Gigondas,2012,3.7,Gigondas,gigondas,rhone
+6,branaire-ducru,Château Branaire-Ducru,Duluc de Branaire-Ducru Saint-Julien (Chateau Duluc),2009,3.8,Saint-Julien,saint-julien,bordeaux
+7,domaine-arnoux-lachaux,Domaine Arnoux-Lachaux,Nuits-Saint-Georges Premier Cru 'Les Proces',2013,3.8,Nuits-Saint-Georges 1er Cru 'Les Proces',nuits-saint-georges-les-proces,cote-de-nuits
+8,paul-blanck-and-fils,Paul Blanck,Riesling,2018,4.0,Alsace,alsace,alsace
+9,eric-forest,Eric Forest,L'Ame Forest Pouilly-Fuissé,2016,4.0,Pouilly-Fuissé,pouilly-fuisse,maconnais
+10,jean-luc-colombo,Jean-Luc Colombo,Syrah Cornas Les Ruchets,2006,3.9,Cornas,cornas,cornas
+11,chateau-fortia,Château Fortia,Tradition Châteauneuf-du-Pape,2011,4.1,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+12,chateau-monbrison,Château Monbrison,Bouquet de Monbrison Margaux,2015,4.1,Margaux,margaux,bordeaux
+13,villa-dria,Villa Dria,Chardonnay - Gros Manseng (Terre de Feu),2018,4.0,Côtes de Gascogne,cotes-de-gascogne,
+14,lucien-crochet,Lucien Crochet,Cuvée Prestige Sancerre Blanc,2016,4.2,Sancerre,sancerre,loire-valley
+15,lucien-crochet,Lucien Crochet,Le Chêne Marchand Sancerre Blanc,2016,4.1,Sancerre,sancerre,loire-valley
+16,le-roc-76679,Le Roc,Les Petits Cailloux du Roc Fronton,2016,3.7,Fronton,fronton,
+17,charles-joguet,Charles Joguet,Cuvée de la Cure Chinon,2012,3.8,Chinon,chinon,
+18,domaine-arretxea,Domaine Arretxea,Irouléguy Rouge,2014,3.7,Irouléguy,irouleguy,
+19,belluard,Domaine Belluard,Les Alpes,2015,4.0,Savoie,savoie,
+20,mylene-bru,Mylene Bru,Far-Ouest,2017,3.9,Languedoc,languedoc,languedoc-roussillon
+21,mylene-bru,Mylene Bru,Rita,2017,4.0,Vin de France,vin-de-pays-vignobles-de-france,
+22,julien-sunier,Julien Sunier,Régnié,2018,4.0,Régnié,regnie,beaujolais
+23,chateau-feytit-clinet,Château Feytit-Clinet,Pomerol,2001,4.1,Pomerol,pomerol,bordeaux
+24,fr-la-grave,Château La Grave (Trigant de Boisset),Pomerol,2000,4.1,Pomerol,pomerol,bordeaux
+0,villa-dria,Villa Dria,Chardonnay - Gros Manseng (Terre de Feu),2018,4.0,Côtes de Gascogne,cotes-de-gascogne,
+1,mouthes-le-bihan,Mouthes le Bihan,Vieillefont Blanc,2014,3.6,Côtes de Duras,ctes-de-duras,
+2,chateau-monbrison,Château Monbrison,Bouquet de Monbrison Margaux,2015,4.1,Margaux,margaux,bordeaux
+3,chateau-saint-roch-cotes-du-rhone,Château Saint-Roch,Confidentielle Lirac Rouge,2017,3.9,Lirac,lirac,rhone
+4,chateau-fortia,Château Fortia,Tradition Châteauneuf-du-Pape,2011,4.1,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+5,paul-blanck-and-fils,Paul Blanck,Riesling,2018,4.0,Alsace,alsace,alsace
+6,lucien-crochet,Lucien Crochet,Cuvée Prestige Sancerre Blanc,2016,4.2,Sancerre,sancerre,loire-valley
+7,lucien-crochet,Lucien Crochet,Le Chêne Marchand Sancerre Blanc,2016,4.1,Sancerre,sancerre,loire-valley
+8,jean-luc-colombo,Jean-Luc Colombo,Syrah Cornas Les Ruchets,2006,3.9,Cornas,cornas,cornas
+9,eric-forest,Eric Forest,L'Ame Forest Pouilly-Fuissé,2016,4.0,Pouilly-Fuissé,pouilly-fuisse,maconnais
+10,la-conseillante,Château La Conseillante,Duo de Conseillante Pomerol,2014,4.0,Pomerol,pomerol,bordeaux
+11,fr-thienpont,F.Thienpont,Bordeaux Rouge,2016,3.9,Bordeaux,bordeaux,bordeaux
+12,domaine-rostaing,Domaine Rostaing,Côte-Rôtie La Landonne,2000,4.3,Northern Rhône,northern-rhne,rhone
+13,louis-latour,Louis Latour,Chambertin Grand Cru Cuvée Héritiers Latour,2010,4.3,Chambertin Grand Cru,chambertin,cote-de-nuits
+14,moet-chandon,Moët & Chandon,Grand Vintage Rosé Brut Champagne,2003,4.4,Champagne,champagne,champagne
+15,michelot,Domaine Michelot,Meursault Premier Cru 'Charmes',2007,3.9,Meursault 1er Cru 'Charmes',meursault-charmes,cote-de-beaune
+16,fr-perrier-jouet,Perrier-Jouët,Belle Epoque Rosé Brut Champagne,1989,4.5,Champagne,champagne,champagne
+17,la-fleur-de-bouard,Château La Fleur de Boüard,Lalande-de-Pomerol,2012,3.9,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+18,nicolas-maillart,Nicolas Maillart,Mont Martin Villers Allerand Champagne Premier Cru,2015,4.1,Champagne Premier Cru,champagne-premier-cru,champagne
+19,chateau-mont-redon,Château Mont-Redon,Châteauneuf-du-Pape,1989,4.3,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+20,g-h-mumm,G.H. Mumm,(Cordon Rouge) Brut Champagne,1985,4.0,Champagne,champagne,champagne
+21,fr-chateau-latour,Château Latour,Grand Vin Pauillac (Premier Grand Cru Classé),1972,4.2,Pauillac,pauillac,bordeaux
+22,champagne-philipponnat,Philipponnat,Cuvée 1522 Rosé Brut Champagne Premier Cru,2007,4.0,Champagne Premier Cru,champagne-premier-cru,champagne
+23,chateau-carbonnieux,Château Carbonnieux,Pessac-Léognan Blanc (Grand Cru Classé de Graves),2008,3.9,Pessac-Léognan,pessac-leognan,bordeaux
+24,chateau-rol-valentin,Château Rol Valentin,Saint-Émilion Grand Cru,2016,4.0,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+0,domaine-thenard,Domaine Thénard,Montrachet Grand Cru,2005,4.4,Montrachet Grand Cru,montrachet-grand-cru,cote-de-beaune
+1,de-venoge,De Venoge,Blanc de Blancs Brut Champagne,2002,4.1,Champagne,champagne,champagne
+2,de-villegeorge,Château de Villegeorge,Haut-Médoc,2000,3.9,Haut-Médoc,haut-medoc,bordeaux
+3,chateau-la-pointe,Château La Pointe,Pomerol,2005,4.3,Pomerol,pomerol,bordeaux
+4,lionel-osmin-cie,Lionel Osmin & Cie,Mon Adour Madiran,2016,3.6,Madiran,madiran,bordeaux
+5,clos-des-boutes,Clos des Boutes,Le Pluriel Rouge,2018,3.4,Costières-de-Nîmes,costieres-de-nimes,rhone
+6,emmanuel-darnaud,Emmanuel Darnaud,Les Trois Chênes Crozes-Hermitage,2016,4.0,Crozes-Hermitage,crozes-hermitage,crozes-hermitage
+7,christophe-pacalet,Christophe Pacalet,Les Labourons Fleurie,2018,3.9,Fleurie,fleurie,beaujolais
+8,mas-granier,Mas Montel - Mas Granier,La Clémence Languedoc,2016,3.8,Languedoc,languedoc,languedoc-roussillon
+9,mas-de-libian,Mas de Libian,Bout d'Zan,2018,3.8,Côtes-du-Rhône,cotes-du-rhone,rhone
+10,clos-marie,Clos Marie,L'Olivette Pic Saint Loup,2009,3.8,Pic-Saint-Loup,pic-saint-loup,languedoc-roussillon
+11,stephane-montez,Stephane Montez - Domaine du Monteillet,Fortis Côte-Rôtie,2017,4.3,Côte-Rôtie,cote-rotie,rhone
+12,domaine-des-amouriers,Amouriers,Les Genestes Vacqueyras,2014,3.8,Vacqueyras,vacqueyras,rhone
+13,paul-henri-thillardon,Paul Henri Thillardon,Vibrations Chénas,2018,3.9,Chénas,chenas,beaujolais
+14,trimbach-alsace,Trimbach,Gewürztraminer Alsace Cuvée des Seigneurs de Ribeaupierre,2008,4.1,Alsace,alsace,alsace
+15,henri-bonneau,Henri Bonneau,Chateauneuf-du-Pape Réserve des Célestins,N.V.,4.6,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+16,fr-chateau-doisy-daene,Château Doisy-Daëne,Barsac (Grand Cru Classé),2000,4.2,Barsac,barsac,bordeaux
+17,jean-michel-alquier,Jean-Michel Alquier,La Maison Jaune Faugères,2016,4.1,Faugères,faugeres,languedoc-roussillon
+18,martinon,Château Martinon,Entre-Deux-Mers,2017,3.7,Entre-deux-Mers,entre-deux-mers,bordeaux
+19,chateau-venus,Château Venus,Les Délices d'Apollon Rouge,2016,4.0,Graves,graves,bordeaux
+20,chateau-mourgues-du-gres,Château Mourgues du Grès,Terre d'Argence Gard,2012,3.7,Coteaux du Pont du Gard,coteaux-du-pont-du-gard,languedoc-roussillon
+21,domaine-harmand-geoffroy,Harmand-Geoffroy,Vieilles Vignes Gevrey-Chambertin,2013,4.1,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+22,chateau-puech-haut,Château Puech-Haut,Saint-Drézéry Tête de Bélier Blanc,2017,4.0,Saint-Drézéry,saint-drezery,languedoc-roussillon
+23,bel-air-marquis-d-aligre,Bel Air-Marquis d'Aligre,Margaux,2009,3.8,Margaux,margaux,bordeaux
+24,clos-du-tue-boeuf,Clos du Tue-Boeuf,La Guerrerie Touraine,2016,3.8,Touraine,touraine,
+0,domaine-ostertag,Domaine Ostertag,Fronholz Riesling,2014,3.9,Alsace,alsace,alsace
+1,mas-de-libian,Mas de Libian,Bout d'Zan,2016,3.6,Côtes-du-Rhône,cotes-du-rhone,rhone
+2,matrot,Matrot,Auxey-Duresses,2015,3.8,Auxey-Duresses,auxey-duresses,cote-de-beaune
+3,mas-de-libian,Mas de Libian,Khayyâm,2015,3.7,Côtes-du-Rhône,cotes-du-rhone,rhone
+4,wilfrid-rousse,Wilfrid Rousse,Les Galuches Chinon,2018,3.6,Chinon,chinon,
+5,brotte,Brotte,Châteauneuf-du-Pape Les Hauts de Barville Rouge,2016,4.1,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+6,fr-thienpont,F.Thienpont,Bordeaux Rouge,2016,3.9,Bordeaux,bordeaux,bordeaux
+7,domaine-michel-gros,Michel Gros,Nuits-Saint-Georges 'Les Chaliots',2014,4.0,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+8,domaine-ramonet,Jean-Claude Ramonet,Bâtard-Montrachet Grand Cru,2014,4.7,Bâtard-Montrachet Grand Cru,batard-montrachet-grand-cru,cote-de-beaune
+9,louis-latour,Louis Latour,Chambertin Grand Cru Cuvée Héritiers Latour,2010,4.3,Chambertin Grand Cru,chambertin,cote-de-nuits
+10,de-venoge,De Venoge,Blanc de Blancs Brut Champagne,2002,4.1,Champagne,champagne,champagne
+11,domaine-thenard,Domaine Thénard,Montrachet Grand Cru,2005,4.4,Montrachet Grand Cru,montrachet-grand-cru,cote-de-beaune
+12,la-fleur-de-bouard,Château La Fleur de Boüard,Lalande-de-Pomerol,2012,3.9,Lalande-de-Pomerol,lalande-de-pomerol,bordeaux
+13,vincent-delaporte,Domaine Delaporte,Sancerre Silex Blanc,2018,3.9,Sancerre,sancerre,loire-valley
+14,montaudon,Montaudon,Brut Réserve Première,N.V.,3.8,Champagne,champagne,champagne
+15,champagne-guy-charlemagne,Guy Charlemagne,Classic Brut Champagne Grand Cru 'Le Mesnil-sur-Oger',N.V.,3.9,Champagne Grand Cru 'Le Mesnil-sur-Oger',champagne-grand-cru-le-mesnil-sur-oger,champagne
+16,famille-perrin,Famille Perrin,Côtes du Rhône Nature Rouge,2016,3.6,Côtes-du-Rhône,cotes-du-rhone,rhone
+17,dom-perignon,Dom Pérignon,P2 Plénitude Brut Champagne,1999,4.6,Champagne,champagne,champagne
+18,domaine-claude-dugat,Claude Dugat,Gevrey-Chambertin,2016,4.0,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+19,fr-chateau-pape-clement,Château Pape Clément,Pessac-Léognan Blanc,2017,4.1,Pessac-Léognan,pessac-leognan,bordeaux
+20,anne-claude-leflaive,Clau de Nell,Cuvée Violette (Cabernet Franc - Cabernet Sauvignon),2015,3.9,Anjou,anjou,
+21,bertrand-braneyre,Château Bertrand Braneyre,Vieilles Vignes Haut-Médoc,2001,3.8,Haut-Médoc,haut-medoc,bordeaux
+22,bertrand-braneyre,Château Bertrand Braneyre,Vieilles Vignes Haut-Médoc,2005,3.9,Haut-Médoc,haut-medoc,bordeaux
+23,domaine-de-marcoux,Domaine de Marcoux,La Lorentine Lirac,2016,3.7,Lirac,lirac,rhone
+24,bastide-du-claux,Bastide du Claux,Le Claux,2016,3.7,Luberon,luberon,rhone
+0,chateau-de-fonbel,Château de Fonbel,Saint-Émilion Grand Cru,2010,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+1,perriere,La Perrière,Sancerre Rouge,2018,4.0,Sancerre,sancerre,loire-valley
+2,cbne,Cébène,Belle Lurette,2016,3.7,Faugères,faugeres,languedoc-roussillon
+3,fr-cosse-maisonneuve,Cosse Maisonneuve,Le Combal Cahors,2014,3.7,Cahors,cahors,cotes-du-roussillon
+4,sapience,Sapience,Champagne,2009,4.5,Champagne,champagne,champagne
+5,fongaban,Château Fongaban,Castillon - Côtes de Bordeaux,2014,3.7,Castillon - Côtes de Bordeaux,cotes-de-castillon,bordeaux
+6,gerard-julien,Domaine Julien,Nuits-Saint-Georges 1er Cru 'Les Bousselots',2014,4.0,Nuits-Saint-Georges 1er Cru 'Aux Bousselots',nuits-saint-georges-aux-bousselots,cote-de-nuits
+7,chateau-de-meursault,Château de Meursault,Meursault 1er Cru 'Charmes',2011,4.3,Meursault 1er Cru 'Charmes',meursault-charmes,cote-de-beaune
+8,beru,Château de Béru,Terroirs de Béru Chablis,2017,3.9,Chablis,chablis,bourgogne
+9,chateau-moulin-de-lagnet,Château Moulin de Lagnet,Saint-Émilion Grand Cru,2014,3.8,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+10,montirius,Montirius,Minèral Vacqueyras,2015,3.8,Vacqueyras,vacqueyras,rhone
+11,clavel,Clavel,Copa Santa La Méjanelle,2014,3.8,Languedoc,languedoc,languedoc-roussillon
+12,nicolas-maillart,Nicolas Maillart,Extra Brut Champagne Premier Cru,N.V.,3.7,Champagne Premier Cru,champagne-premier-cru,champagne
+13,courbissac,Domaine de Courbissac,Roc du Pière Minervois,2014,3.6,Minervois,minervois,languedoc-roussillon
+14,sebastein-bobinet,Domaine Bobinet,Ruben,2018,3.9,Saumur,saumur,
+15,domaine-des-pothiers,Domaine des Pothiers,No.6,2013,3.5,Côte Roannaise,cote-roannaise,
+16,domaine-maurice-protheau-chateau-detroyes,Château d'Etroyes,Clos des Corvées Mercurey,2017,3.2,Mercurey,mercurey,cote-chalonnaise
+17,georges-lombriere,Georges-Lombrière,Cuvée Marie Châteauneuf-du-Pape,2015,4.3,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+18,michel-juillot,Michel Juillot,Mercurey Premier Cru Les Combins,2012,4.0,Mercurey Premier Cru,mercurey-premier-cru,cote-chalonnaise
+19,olivier-merlin,Merlin,La Rochelle Moulin à Vent,2013,3.5,Moulin-à-Vent,moulin-a-vent,beaujolais
+20,thierry-mortet,Domaine Thierry Mortet,Gevrey-Chambertin,2012,3.8,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+21,hospices-de-beaune,Hospices de Beaune,Meursault-Genevrières Premier Cru Cuvée Baudot,2011,3.9,Meursault Premier Cru,meursault-premier-cru,cote-de-beaune
+22,domaine-des-ardoisieres,Domaine des Ardoisieres,Argile Blanc,2018,4.0,Vins des Allobroges,vin-des-allobroges,
+23,patrick-et-christophe,Patrick et Christophe Bonnefond,Colline de Couzou Côte-Rôtie,2017,3.8,Côte-Rôtie,cote-rotie,rhone
+24,michele-and-patrice-rion,Patrice Rion,Bourgogne Chardonnay,2009,3.5,Bourgogne,bourgogne,bourgogne
+0,l-hermitage,Chateau Tauzinat l'Hermitage,Saint-Émilion Grand Cru,2011,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+1,fr-domaine-georges-vernay,Domaine Georges Vernay,Le Pied de Samson Viognier,2016,3.9,Collines Rhodaniennes,igp-collines-rhodaniennes,languedoc-roussillon
+2,vincent-delaporte,Domaine Delaporte,Sancerre Silex Blanc,2018,3.9,Sancerre,sancerre,loire-valley
+3,domaine-de-marcoux,Domaine de Marcoux,La Lorentine Lirac,2016,3.7,Lirac,lirac,rhone
+4,gerard-julien,Domaine Julien,Nuits-Saint-Georges 1er Cru 'Les Bousselots',2014,4.0,Nuits-Saint-Georges 1er Cru 'Aux Bousselots',nuits-saint-georges-aux-bousselots,cote-de-nuits
+5,chateau-de-meursault,Château de Meursault,Meursault 1er Cru 'Charmes',2011,4.3,Meursault 1er Cru 'Charmes',meursault-charmes,cote-de-beaune
+6,chateau-fontenil,Château Fontenil,Fronsac,2003,3.9,Fronsac,fronsac,bordeaux
+7,philippe-foreau,Philippe Foreau,Vouvray Demi-Sec,2011,4.0,Vouvray,vouvray,loire-valley
+8,chateau-beausejour,Château Beausejour (héritiers Duffau-Lagarrosse),Saint-Émilion Grand Cru (Premier Grand Cru Classé),1985,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+9,chateau-lanessan,Château Lanessan,Haut-Médoc,1985,4.0,Haut-Médoc,haut-medoc,bordeaux
+10,alexandre-bain,Alexandre Bain,L. d'Ange Pouilly-Fumé,2014,4.0,Pouilly-Fumé,pouilly-fume,loire-valley
+11,tariquet,Domaine du Tariquet,Côtes De Gascogne Classic,2019,3.6,Côtes de Gascogne,cotes-de-gascogne,
+12,fr-benedicte-stephane-tissot,Bénédicte et Stéphane Tissot,Patchwork Chardonnay,2018,4.2,Arbois,arbois,jura
+13,joseph-drouhin,Joseph Drouhin,Chassagne-Montrachet Blanc,2016,4.2,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+14,jules-desjourneys,Jules Desjourneys,Pouilly-Loché,2015,4.1,Pouilly-Loché,pouilly-loche,maconnais
+15,vignoble-du-reveur,Vignoble du Rêveur,Pierres Sauvages Sec,2018,3.6,Alsace,alsace,
+16,domaine-de-dernacueillette,Domaine de Dernacueillette,Le Petit Derna,2016,4.1,Aude,aude,languedoc-roussillon
+17,jean-louis-chavy,Jean-Louis Chavy,Bourgogne Chardonnay,2017,3.8,Bourgogne,bourgogne,bourgogne
+18,mas-amiel,Mas Amiel,Vintage,2016,3.7,Maury,maury,
+19,alain-gras,Alain Gras,Saint-Romain Blanc,2018,4.1,Saint-Romain,saint-romain,cote-de-beaune
+20,philippe-ravier,Philippe Ravier,Mondeuse Saint Jean de la Porte,2017,3.4,Vin de Savoie,vin-de-savoie,
+21,chateau-de-fosse-seche,Château de Fosse-Sèche,Arcane,2017,3.8,Saumur,saumur,loire-valley
+22,georges-lombriere,Georges-Lombrière,Cuvée Marie Châteauneuf-du-Pape,2015,4.3,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+23,philippe-ravier,Philippe Ravier,Chignin Bergeron,2016,3.7,Savoie,savoie,
+24,francois-chidaine,François Chidaine,Clos Habert Montlouis Sur Loire,2017,4.2,Montlouis-sur-Loire,montlouis-sur-loire,loire-valley
+0,dourthe-n1,Dourthe N°1,Sauvignon Blanc Bordeaux,2018,3.6,Bordeaux,bordeaux,bordeaux
+1,fr-cosse-maisonneuve,Cosse Maisonneuve,Le Combal Cahors,2014,3.7,Cahors,cahors,cotes-du-roussillon
+2,sapience,Sapience,Champagne,2009,4.5,Champagne,champagne,champagne
+3,abbaye-sainte-marie-de-pierredon,Abbaye Sainte-Marie de Pierredon,Vespro,2015,3.9,Alpilles,alpilles,
+4,beru,Château de Béru,Terroirs de Béru Chablis,2017,3.9,Chablis,chablis,bourgogne
+5,chateau-moulin-de-lagnet,Château Moulin de Lagnet,Saint-Émilion Grand Cru,2014,3.8,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+6,leccia,Leccia,Patrimonio Pettale,2016,4.0,Patrimonio,patrimonio,
+7,abbaye-sainte-marie-de-pierredon,Abbaye Sainte-Marie de Pierredon,Vespro,2014,3.9,Alpilles,alpilles,
+8,montirius,Montirius,Minèral Vacqueyras,2015,3.8,Vacqueyras,vacqueyras,rhone
+9,larose-trintaudon,Château Larose-Trintaudon,Haut-Médoc,2000,3.8,Haut-Médoc,haut-medoc,bordeaux
+10,chateau-des-annereaux,Château des Annereaux,Cuvée L'Ane Mort Bordeaux,2016,3.4,Bordeaux,bordeaux,bordeaux
+11,lucien-crochet,Lucien Crochet,La Croix du Roy Sancerre Blanc,2015,4.0,Sancerre,sancerre,loire-valley
+12,nicolas-maillart,Nicolas Maillart,Extra Brut Champagne Premier Cru,N.V.,3.7,Champagne Premier Cru,champagne-premier-cru,champagne
+13,nicolas-maillart,Nicolas Maillart,Brut Rosé Champagne Grand Cru,N.V.,3.9,Champagne Grand Cru,champagne-grand-cru,champagne
+14,nicolas-maillart,Nicolas Maillart,Les Chaillots Gillis Blanc de Blancs Extra Brut Champagne Premier Cru,2012,4.2,Champagne Premier Cru,champagne-premier-cru,champagne
+15,courbissac,Domaine de Courbissac,Roc du Pière Minervois,2014,3.6,Minervois,minervois,languedoc-roussillon
+16,domaine-des-pothiers,Domaine des Pothiers,No.6,2013,3.5,Côte Roannaise,cote-roannaise,
+17,michel-juillot,Michel Juillot,Mercurey Premier Cru Les Combins,2012,4.0,Mercurey Premier Cru,mercurey-premier-cru,cote-chalonnaise
+18,olivier-merlin,Merlin,La Rochelle Moulin à Vent,2013,3.5,Moulin-à-Vent,moulin-a-vent,beaujolais
+19,bertrand-braneyre,Château Bertrand Braneyre,Vieilles Vignes Haut-Médoc,2001,3.8,Haut-Médoc,haut-medoc,bordeaux
+20,bertrand-braneyre,Château Bertrand Braneyre,Vieilles Vignes Haut-Médoc,2005,3.9,Haut-Médoc,haut-medoc,bordeaux
+21,hospices-de-beaune,Hospices de Beaune,Meursault-Genevrières Premier Cru Cuvée Baudot,2011,3.9,Meursault Premier Cru,meursault-premier-cru,cote-de-beaune
+22,thierry-mortet,Domaine Thierry Mortet,Gevrey-Chambertin,2012,3.8,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+23,chateau-de-fonbel,Château de Fonbel,Saint-Émilion Grand Cru,2010,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+24,pajot,Domaine de Pajot,Les 4 Cépages,2018,3.7,Côtes de Gascogne,cotes-de-gascogne,
+0,roger-sabon,Roger Sabon,Lirac,2015,3.8,Lirac,lirac,rhone
+1,e-guigal,E. Guigal,Saint-Joseph,2017,3.5,Saint-Joseph,saint-joseph,saint-joseph
+2,charles-joguet,Charles Joguet,Clos de la Dioterie Chinon,2012,3.8,Chinon,chinon,
+3,coquelet,Damien Coquelet,Chiroubles Vieilles Vignes,2015,3.7,Chiroubles,chiroubles,beaujolais
+4,fr-perrier-jouet,Perrier-Jouët,Belle Epoque Brut Champagne,1983,4.3,Champagne,champagne,champagne
+5,coutet,Château Coutet,Sauternes Barsac (Premier Grand Cru Classé),2000,4.1,Barsac,barsac,bordeaux
+6,chateau-de-rayne-vigneau,Château de Rayne Vigneau,Sauternes (Premier Grand Cru Classé),2003,4.3,Sauternes,sauternes,bordeaux
+7,clos-du-clocher,Clos du Clocher,Pomerol,2012,4.0,Pomerol,pomerol,bordeaux
+8,chateau-troplong-mondot,Château Troplong Mondot,Mondot Saint-Émilion Grand Cru,2012,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+9,chateau-cambon-la-pelouse,Château Cambon La Pelouse,Haut-Médoc,2013,3.6,Haut-Médoc,haut-medoc,bordeaux
+10,chateau-tour-de-pez,Château Tour de Pez,Saint-Estèphe,2011,3.7,Saint-Estèphe,saint-estephe,bordeaux
+11,chateau-de-ferrand,Château de Ferrand,Saint-Émilion Grand Cru (Grand Cru Classé),2009,4.1,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+12,chateau-de-ferrand,Château de Ferrand,Saint-Émilion Grand Cru (Grand Cru Classé),2013,3.7,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+13,chateau-gazin,Château Gazin,Pomerol,1976,4.0,Pomerol,pomerol,bordeaux
+14,domaine-comte-georges-de-vogue,Domaine Comte Georges de Vogüé,Chambolle-Musigny Premier Cru,2001,4.3,Chambolle-Musigny Premier Cru,chambolle-musigny-premier-cru,cote-de-nuits
+15,jean-baptiste-granier,Les Vignes Oubliées,Terrasses du Larzac,2015,3.8,Terrasses du Larzac,terasses-du-larzac,languedoc-roussillon
+16,domaine-francois-villard,Francois Villard,Saint Joseph Reflet,2014,4.2,Saint-Joseph,saint-joseph,saint-joseph
+17,faiveley,Faiveley,Meursault 1er Cru 'Blagny' Blanc,2010,4.1,Meursault 1er Cru 'Blagny',meursault-1er-cru-blagny,cote-de-beaune
+18,chateau-de-marsannay,Château de Marsannay,Les Echezots Marsannay,2014,3.8,Marsannay,marsannay,cote-de-nuits
+19,chateau-le-puy,Château le Puy,Barthélémy,2007,4.2,Francs - Côtes de Bordeaux,cotes-de-francs,bordeaux
+20,domaine-hubert-lamy,Hubert Lamy,Vieilles Vignes Saint-Aubin 1er Cru 'Clos de la Chatenière',2015,4.2,Saint-Aubin 1er Cru 'La Chatenière',saint-aubin-la-chateniere,cote-de-beaune
+21,domaine-hubert-lamy,Hubert Lamy,Saint-Aubin 1er Cru 'Derrière Chez Edouard' Blanc,2015,4.1,Saint-Aubin 1er Cru 'Derrière chez Edouard',saint-aubin-derriere-chez-edouard,cote-de-beaune
+22,la-pousse-d-or,La Pousse d'Or,Corton Les Bressandes Grand Cru,2008,4.1,Corton Grand Cru 'Les Bressandes',corton-les-bressandes,cote-de-beaune
+23,chateau-clarisse-37162,Château Clarisse,Puisseguin-Saint-Émilion,2016,4.1,Puisseguin-Saint-Émilion,puisseguin-saint-emilion,bordeaux
+24,bouchard-pere-and-fils,Bouchard Père & Fils,Clos Vougeot Grand Cru,2007,4.5,Clos Vougeot Grand Cru,clos-de-vougeot,cote-de-nuits
+0,brillette,Château Brillette,Haut Brillette Moulis-en-Médoc,2012,3.6,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+1,montaudon,Montaudon,Brut Réserve Première,N.V.,3.8,Champagne,champagne,champagne
+2,domaine-alain-chabanon,Alain Chabanon,Campredon,2009,3.8,Languedoc,languedoc,languedoc-roussillon
+3,domaine-ostertag,Domaine Ostertag,Fronholz Riesling,2012,3.9,Alsace,alsace,alsace
+4,chateau-troplong-mondot,Château Troplong Mondot,Saint-Émilion Grand Cru (Premier Grand Cru Classé),1997,4.2,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+5,chateau-maucaillou,Château Maucaillou,Le Bordeaux de Maucaillou Blanc (B),2016,3.3,Bordeaux,bordeaux,bordeaux
+6,francoise-et-denis-clair,Domaine Françoise & Denis Clair,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',2013,4.0,Saint-Aubin 1er Cru 'Les Murgers des Dents de Chien',saint-aubin-les-murgers-des-dents-de-chien,cote-de-beaune
+7,dutruch-grand-poujeaux,Château Dutruch Grand Poujeaux,Moulis-en-Médoc,2014,3.8,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+8,domaine-du-cros,Domaine du Cros,Marcillac (Cuvée Lo Sang del Païs),2018,3.7,Marcillac,marcillac,
+9,camplazens,Château Camplazens,Premium,2017,4.1,La Clape,languedoc-la-clape,languedoc-roussillon
+10,champ-des-soeurs,Champ des Soeurs,La Tina Fitou,2014,4.1,Fitou,fitou,languedoc-roussillon
+11,domaine-jean-baptiste-senat,Domaine Jean-Baptiste Senat,Mais Où est donc Ornicar Minervois,2017,3.7,Minervois,minervois,languedoc-roussillon
+12,domaine-gayda,Gayda,Chemin de Moscou,2017,4.0,Pays d'Oc,vin-de-pays-doc,languedoc-roussillon
+13,domaine-de-la-mordoree,Domaine de la Mordoree,La Reine Des Bois Lirac,2008,4.1,Lirac,lirac,rhone
+14,joanin-bcot,Château Joanin Bécot,Castillon - Côtes de Bordeaux,2013,2.9,Castillon - Côtes de Bordeaux,cotes-de-castillon,bordeaux
+15,domaine-la-tour-boisee,Domaine la Tour Boisée,Marselan Bel Serrat,2016,3.7,Coteaux de Peyriac,coteaux-de-peyriac,languedoc-roussillon
+16,delas-freres,Delas,Viognier Vin de Pays d'Oc,2018,3.7,Pays d'Oc,vin-de-pays-doc,languedoc-roussillon
+17,brotte,Brotte,Châteauneuf-du-Pape Les Hauts de Barville Rouge,2016,4.1,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+18,wilfrid-rousse,Wilfrid Rousse,Les Galuches Chinon,2018,3.6,Chinon,chinon,
+19,antonin-rodet,Antonin Rodet,Château de Mercey Bourgogne Hautes Cotes de Beaune Chardonnay,2017,3.7,Bourgogne,bourgogne,bourgogne
+20,domaine-latour-giraud,Domaine Latour-Giraud,Cuvée Charles Maxime Meursault,2017,4.2,Meursault,meursault,cote-de-beaune
+21,la-croix-belle,La Croix Belle,Caringole Rosé,2018,3.5,Côtes de Thongue,cotes-de-thongue,
+22,stephane-montez,Stephane Montez - Domaine du Monteillet,Saint-Joseph Blanc,2017,4.0,Saint-Joseph,saint-joseph,rhone
+23,petit-roubie,Domaine de Petit Roubié,Picpoul de Pinet,2018,3.7,Picpoul de Pinet,picpoul-de-pinet,languedoc-roussillon
+24,chateau-gazin,Château Gazin,L'Hospitalet de Gazin Pomerol,2010,4.0,Pomerol,pomerol,bordeaux
+0,montirius,Montirius,Minèral Vacqueyras,2016,3.7,Vacqueyras,vacqueyras,rhone
+1,fontavin,Domaine de Fontavin,Combe Sauvage Gigondas,2017,3.7,Gigondas,gigondas,rhone
+2,lionel-osmin-cie,Lionel Osmin & Cie,Foehn Jurançon,2012,4.0,Jurançon,jurancon,
+3,villemajou,Domaine de Villemajou,Corbières Boutenac Grand Vin Rouge,2016,3.9,Corbières Boutenac,corbieres-boutenac,languedoc-roussillon
+4,andre-dezat-fils,Andre Dezat & Fils,Sancerre Rouge,2018,4.0,Sancerre,sancerre,loire-valley
+5,moet-chandon,Moët & Chandon,Impérial Brut Champagne,1993,4.3,Champagne,champagne,champagne
+6,ad-fines,Ad Fines,Domitilla,2005,3.7,Vaucluse,vaucluse,
+7,la-ferme-saint-pierre,La Ferme Saint Pierre,Pipi d'Ange,N.V.,4.0,Vin de France,vin-de-pays-vignobles-de-france,
+8,martinelle,Martinelle,Ventoux,2015,3.6,Ventoux,cotes-du-ventoux,rhone
+9,domaine-harmand-geoffroy,Harmand-Geoffroy,Mazis-Chambertin Grand Cru,2013,4.2,Mazis-Chambertin Grand Cru,mazis-chambertin,cote-de-nuits
+10,e-guigal,E. Guigal,Côte-Rôtie La Landonne,N.V.,4.5,Côte-Rôtie,cote-rotie,rhone
+11,domaine-jean-michel-stephan,Domaine Jean-Michel Stéphan,Côte-Rôtie Côteaux de Tupin,2016,4.1,Côte-Rôtie,cote-rotie,rhone
+12,laroze,Château Laroze,Saint-Émilion Grand Cru (Grand Cru Classé),2014,3.8,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+13,chateau-citran,Château Citran,Haut-Médoc,1997,3.7,Haut-Médoc,haut-medoc,bordeaux
+14,coussin,Château Coussin,La Croix du Prieur Côtes de Provence Rosé,2018,3.8,Côtes de Provence,cotes-de-provence,provence
+15,chateau-calon-segur,Château Calon-Ségur,Saint-Estephe de Calon-Ségur,2014,3.5,Saint-Estèphe,saint-estephe,bordeaux
+16,chateau-puech-haut,Château Puech-Haut,Clos du Pic Saint-Drézéry,2016,4.4,Saint-Drézéry,saint-drezery,languedoc-roussillon
+17,roger-pabiot-42345,Domaine Roger Pabiot et Fils,Coteau des Girarmes Pouilly-Fumé,2018,3.8,Pouilly-Fumé,pouilly-fume,loire-valley
+18,jose-michel-and-fils,José Michel & Fils,Extra-Brut Champagne,N.V.,3.6,Champagne,champagne,champagne
+19,domaine-ramonet,Jean-Claude Ramonet,Bâtard-Montrachet Grand Cru,2014,4.7,Bâtard-Montrachet Grand Cru,batard-montrachet-grand-cru,cote-de-beaune
+20,domaine-michel-gros,Michel Gros,Nuits-Saint-Georges 'Les Chaliots',2014,4.0,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+21,vincent-gaudry,Vincent Gaudry,Sancerre Le Tournebride,2014,3.7,Sancerre,sancerre,loire-valley
+22,mas-de-libian,Mas de Libian,Khayyâm,2015,3.7,Côtes-du-Rhône,cotes-du-rhone,rhone
+23,matrot,Matrot,Auxey-Duresses,2015,3.8,Auxey-Duresses,auxey-duresses,cote-de-beaune
+24,anne-boisson,Anne Boisson,Bourgogne Aligoté,2014,3.9,Bourgogne Aligoté,bourgogne-aligote,bourgogne
+0,faiveley,Faiveley,Nuits-Saint-Georges 1er Cru Aux Vignerondes,2013,3.9,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+1,david-duband,David Duband,Nuits-Saint-Georges,2012,3.9,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+2,antoine-jobard,Francois et Antoine Jobard,Meursault 'En la Barre',2012,4.0,Meursault,meursault,cote-de-beaune
+3,bader-mimeur,Bader-Mimeur,Chateau de Chassagne-Montrachet Blanc,2016,4.1,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+4,bader-mimeur,Bader-Mimeur,Chateau de Chassagne-Montrachet Rouge,2015,4.3,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+5,bader-mimeur,Bader-Mimeur,Chateau de Chassagne-Montrachet Blanc,2009,4.0,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+6,domaine-laroche,Domaine Laroche,Chablis Premier Cru 'Les Beauroys',2015,4.2,Chablis Premier Cru,chablis-premier-cru,bourgogne
+7,domaine-ponsot,Domaine Ponsot,Chapelle-Chambertin Grand Cru,2007,4.4,Chapelle-Chambertin Grand Cru,chapelle-chambertin,cote-de-nuits
+8,louis-jadot,Louis Jadot,Beaune Premier Cru,2015,4.1,Beaune Premier Cru,beaune-premier-cru,cote-de-beaune
+9,louis-jadot,Louis Jadot,Beaune Premier Cru,2016,4.2,Beaune Premier Cru,beaune-premier-cru,cote-de-beaune
+10,domaine-louis-max,Louis Max,Mercurey Les Rochelles,2016,4.0,Mercurey,mercurey,cote-chalonnaise
+11,geantet-pansiot,Geantet-Pansiot,Marsannay Champs Perdrix,2014,3.7,Marsannay,marsannay,cote-de-nuits
+12,domaine-chandon-de-briailles,Chandon de Briailles,Les Lavières Savigny-lès-Beaune 1er Cru,2014,3.8,Savigny-lès-Beaune 1er Cru 'Les Lavières',savigny-les-beaune-les-lavieres,cote-de-beaune
+13,a-et-p-de-villaine,Domaine A. et P. de Villaine,"Bourgogne Côte Chalonnaise ""Les Clous Aime""",2017,3.9,Côte Chalonnaise,cote-chalonnaise,cote-chalonnaise
+14,trimbach-alsace,Trimbach,Riesling Alsace Cuvée Frédéric Emile,1989,4.3,Alsace,alsace,alsace
+15,domaine-camus-pere-et-fils,Camus Père & Fils,Latricières-Chambertin Grand Cru,2010,4.1,Latricières-Chambertin Grand Cru,latricieres-chambertin,cote-de-nuits
+16,domaine-william-fevre,Domaine William Fèvre,Chablis,2017,3.8,Chablis,chablis,bourgogne
+17,domaine-william-fevre,Domaine William Fèvre,Chablis Premier Cru Vaillons,2013,4.0,Chablis Premier Cru,chablis-premier-cru,bourgogne
+18,domaine-de-chevalier,Domaine de Chevalier,L'Esprit de Chevalier Pessac-Léognan,2017,4.0,Pessac-Léognan,pessac-leognan,bordeaux
+19,domaine-de-beausejour,Domaine de Beauséjour,Chinon Rouge,2013,3.1,Chinon,chinon,
+20,chateau-lucas,Château Lucas,L'Esprit de Lucas Lussac Saint-Émilion,2009,3.8,Lussac-Saint-Émilion,lussac-st-emilion,bordeaux
+21,domaine-yves-cuilleron,Yves Cuilleron,Condrieu La Petite Côte,2018,4.1,Condrieu,condrieu,condrieu
+22,jean-luc-jamet,Jean Luc Jamet,Terrasses Côte-Rôtie,2015,4.1,Côte-Rôtie,cote-rotie,rhone
+23,fr-etienne-chere,Etienne Chéré,Brut Tradition Champagne,N.V.,3.6,Champagne,champagne,champagne
+24,villa-baulieu,Villa Baulieu,Blanc,2014,3.9,Coteaux d'Aix-en-Provence,coteaux-daix-en-provence,
+0,claude-cazals,Cazals,Cuvée Vive Extra Brut Champagne Grand Cru 'Le Mesnil-sur-Oger',N.V.,3.8,Champagne Grand Cru 'Le Mesnil-sur-Oger',champagne-grand-cru-le-mesnil-sur-oger,champagne
+1,chateau-chauvin,Château Chauvin,Saint-Émilion Grand Cru (Grand Cru Classé),2000,3.9,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+2,clos-l-eglise-pomerol,Clos l'Eglise,Pomerol,2007,4.5,Pomerol,pomerol,bordeaux
+3,alain-voge,Alain Voge,Côtes du Rhône 'Les Peyrouses',2017,3.7,Côtes-du-Rhône,cotes-du-rhone,rhone
+4,la-rose-sarron,Château La Rose Sarron,Graves Rouge,2016,3.4,Graves,graves,bordeaux
+5,fichet,Domaine Fichet,Tradition Bourgogne Pinot Noir,2018,3.4,Bourgogne,bourgogne,bourgogne
+6,dubraud,Château Dubraud,Blaye Côtes de Bordeaux,2015,3.9,Blaye - Côtes de Bordeaux,blaye-cotes-de-bordeaux,bordeaux
+7,chateau-d-eck,Chateau d'Eck,Pessac-Léognan Rouge,2015,3.9,Pessac-Léognan,pessac-leognan,bordeaux
+8,domaine-viret,Domaine Viret,Dolía 1 Le Paradis Rouge,2011,3.9,Vin de France,vin-de-pays-vignobles-de-france,
+9,ferraton-pere-fils,Ferraton Père & Fils,Côte-Rôtie L'Eglantine,2016,4.3,Côte-Rôtie,cote-rotie,rhone
+10,champagne-henri-giraud,Henri Giraud,Argonne Brut Champagne Grand Cru 'Aÿ',2008,4.7,Champagne Grand Cru 'Aÿ',champagne-grand-cru-ay,champagne
+11,roc-meynard,Château Roc Meynard,Bordeaux Blanc Sec,2016,3.7,Bordeaux,bordeaux,bordeaux
+12,philippe-hermouet,Clos du Roy,Fronsac,2014,3.7,Fronsac,fronsac,bordeaux
+13,m-chapoutier,M. Chapoutier,Saint-Péray Lieu-dit Hongrie,2016,3.9,Saint-Péray,saint-peray,saint-peray
+14,bruno-paillard,Bruno Paillard,N.P.U Brut Champagne (Nec Plus Ultra),2004,4.3,Champagne,champagne,champagne
+15,jouvente,Château Jouvente,Graves Rouge,2016,4.2,Graves,graves,bordeaux
+16,ermitage-du-pic-st-loup,Ermitage du Pic Saint Loup,Guilhem Gaucelm,2016,4.2,Pic-Saint-Loup,pic-saint-loup,languedoc-roussillon
+17,le-vieux-donjon,Le Vieux Donjon,Châteauneuf-du-Pape Blanc,2017,3.9,Châteauneuf-du-Pape,chateauneuf-du-pape,rhone
+18,domaine-coche-dury,Domaine Coche-Dury,Meursault Blanc,2011,4.6,Meursault,meursault,cote-de-beaune
+19,domaine-marc-morey-and-fils,Morey-Coffinet,Chassagne Montrachet,2017,4.2,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+20,louis-cheze,Louis Chèze,Caroline Saint-Joseph (Cuvée Prestige),2015,3.9,Saint-Joseph,saint-joseph,saint-joseph
+21,chateau-la-providence,Château La Providence,Pomerol,2009,4.5,Pomerol,pomerol,bordeaux
+22,fargues,Château de Fargues,Sauternes (Lur Saluces),2008,4.3,Sauternes,sauternes,bordeaux
+23,domaine-hubert-lamy,Hubert Lamy,Saint-Aubin 1er Cru 'En Remilly',2015,4.3,Saint-Aubin 1er Cru 'En Remilly',saint-aubin-en-remilly,cote-de-beaune
+24,thierry-massin,Thierry Massin,Sélection Brut Champagne,N.V.,3.6,Champagne,champagne,champagne
+0,chateau-massot,Chateau Massot,Bordeaux,2015,3.2,Bordeaux,bordeaux,bordeaux
+1,michel-stephane-ogier,Michel & Stéphane Ogier,Le Passage Saint-Joseph,2017,4.0,Saint-Joseph,saint-joseph,saint-joseph
+2,le-clos-des-fees,Domaine du Clos des Fées,Vieilles Vignes Côtes du Roussillon Villages,2016,4.0,Côtes du Roussillon Villages,cotes-du-roussillon-villages,languedoc-roussillon
+3,hugel,Hugel,Estate Gewürztraminer,2013,4.0,Alsace Grand Cru,alsace-grand-cru,alsace
+4,piedlong,Piedlong,Châteauneuf-du-Pape,2016,4.2,Châteauneuf-du-Pape,chateauneuf-du-pape,chateauneuf-du-pape
+5,mas-del-perie-fabien-jouves,Mas del Périé - Fabien Jouves,Amphore,2017,3.7,Cahors,cahors,cotes-du-roussillon
+6,hugel,Hugel,Riesling Vendange Tardive,2011,4.0,Alsace,alsace,alsace
+7,chateau-de-chantegrive,Château de Chantegrive,Caroline Graves,2017,3.8,Graves,graves,bordeaux
+8,domaine-hubert-lamy,Hubert Lamy,Vieilles Vignes Saint-Aubin 1er Cru 'Clos de la Chatenière',2015,4.2,Saint-Aubin 1er Cru 'La Chatenière',saint-aubin-la-chateniere,cote-de-beaune
+9,domaine-hubert-lamy,Hubert Lamy,Saint-Aubin 1er Cru 'Derrière Chez Edouard' Blanc,2015,4.1,Saint-Aubin 1er Cru 'Derrière chez Edouard',saint-aubin-derriere-chez-edouard,cote-de-beaune
+10,la-pousse-d-or,La Pousse d'Or,Volnay 1er Cru 'Clos des 60 Ouvrées' (Monopole),2015,4.1,Volnay 1er Cru 'Clos des 60 Ouvrées',volnay-clos-des-60-ouvrees,cote-de-beaune
+11,la-pousse-d-or,La Pousse d'Or,Corton Les Bressandes Grand Cru,2008,4.1,Corton Grand Cru 'Les Bressandes',corton-les-bressandes,cote-de-beaune
+12,comte-armand,Comte Armand,Auxey-Duresses Rouge,2013,3.6,Auxey-Duresses,auxey-duresses,cote-de-beaune
+13,lamothe-bergeron,Château Lamothe-Bergeron,Haut-Médoc,2009,3.7,Haut-Médoc,haut-medoc,bordeaux
+14,jean-noel-haton-champagne-brut-reserve,Jean-Noel Haton,Extra Brut Champagne,N.V.,4.1,Champagne,champagne,champagne
+15,faiveley,Faiveley,Gevrey-Chambertin Les Marchais,2010,4.0,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+16,faiveley,Faiveley,Gevrey-Chambertin Les Marchais,2012,3.9,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+17,fr-chateau-latour-martillac,Château Latour-Martillac,Pessac-Léognan Blanc (Grand Cru Classé de Graves),2008,3.8,Pessac-Léognan,pessac-leognan,bordeaux
+18,bouchard-pere-and-fils,Bouchard Père & Fils,Meursault 1er Cru 'Les Gouttes d'Or' Blanc,2011,4.2,Meursault 1er Cru 'Les Gouttes d'Or',meursault-les-gouttes-d-or,cote-de-beaune
+19,le-chateau-de-chamirey,Château de Chamirey,Mercurey Blanc,2015,3.6,Mercurey,mercurey,cote-chalonnaise
+20,chanson-pere-and-fils,Chanson,Nuits-Saint-Georges Premier Cru Les Porets Saint-Georges,2007,4.0,Nuits-Saint-Georges Premier Cru,nuits-saint-georges-premier-cru,cote-de-nuits
+21,minuty,Minuty,Prestige Rosé,2019,4.0,Côtes de Provence,cotes-de-provence,provence
+22,michel-stephane-ogier,Michel & Stéphane Ogier,Syrah d'Ogier,2017,3.9,Collines Rhodaniennes,igp-collines-rhodaniennes,rhone
+23,chateau-d-esclans,Château d'Esclans,Déesse Astrée,2015,4.2,Côtes de Provence,cotes-de-provence,
+24,domaine-gauby,Gauby,Calcinaires Côtes Catalanes,2018,3.5,Côtes Catalanes,cotes-catalanes,languedoc-roussillon
+0,jean-baptiste-granier,Les Vignes Oubliées,Terrasses du Larzac,2015,3.8,Terrasses du Larzac,terasses-du-larzac,languedoc-roussillon
+1,domaine-courbis,Domaine Courbis,Champelrose Cornas,2014,3.8,Cornas,cornas,cornas
+2,domaine-courbis,Domaine Courbis,Champelrose Cornas,2017,3.8,Cornas,cornas,cornas
+3,alain-voge,Alain Voge,Cornas 'Les Chailles',2014,3.9,Cornas,cornas,cornas
+4,e-guigal,E. Guigal,Hermitage Blanc,2016,4.1,Hermitage,hermitage,rhone
+5,coudoulis,Domaine Coudoulis,Hommage Lirac,2015,3.7,Lirac,lirac,rhone
+6,henri-bourgeois,Henri Bourgeois,Sancerre La Chapelle Des Augustins,2015,3.8,Sancerre,sancerre,loire-valley
+7,henri-bourgeois,Henri Bourgeois,Sancerre La Chapelle Des Augustins,2014,3.8,Sancerre,sancerre,loire-valley
+8,domaine-de-baron-arques,Domaine de Baron'arques,Limoux,2010,3.8,Limoux,limoux,languedoc-roussillon
+9,alphonse-mellot,Alphonse Mellot,Le Paradis Sancerre,2013,3.8,Sancerre,sancerre,loire-valley
+10,fr-domaine-les-aurelles,Domaine Les Aurelles,Solen,2010,4.1,Pézenas,pezenas,languedoc-roussillon
+11,le-clos-des-fees,Domaine du Clos des Fées,"Aimer,Rêver, Prier, Se Taire Pinot Noir - Jeues Vignes",2016,3.8,Languedoc-Roussillon,languedoc-roussillon,languedoc-roussillon
+12,delas-freres,Delas,Clos Boucher Condrieu,2015,4.2,Condrieu,condrieu,condrieu
+13,ermitage-du-pic-st-loup,Ermitage du Pic Saint Loup,Guilhem Gaucelm,2016,4.2,Pic-Saint-Loup,pic-saint-loup,languedoc-roussillon
+14,chateau-citran,Château Citran,Haut-Médoc,2017,3.7,Haut-Médoc,haut-medoc,bordeaux
+15,puygueraud,Château Puygueraud,Francs - Côtes de Bordeaux,2013,3.6,Francs - Côtes de Bordeaux,cotes-de-francs,bordeaux
+16,chateau-peyrabon,Château Peyrabon,Château Pierbone Haut-Médoc,2010,3.8,Haut-Médoc,haut-medoc,bordeaux
+17,roylland,Château Roylland,Saint-Émilion Grand Cru,2014,3.8,Saint-Émilion Grand Cru,st-emilion-grand-cru,bordeaux
+18,chateau-tour-de-pez,Château Tour de Pez,Saint-Estèphe,2011,3.7,Saint-Estèphe,saint-estephe,bordeaux
+19,malmaison,Château Malmaison,Moulis-en-Médoc,2012,3.7,Moulis-en-Médoc,moulis-en-medoc,bordeaux
+20,chateau-de-myrat,Château de Myrat,Sauternes (Grand Cru Classé),2014,4.2,Sauternes,sauternes,bordeaux
+21,chateau-tronquoy-lalande,Château Tronquoy-Lalande,Saint-Estèphe,2009,3.9,Saint-Estèphe,saint-estephe,bordeaux
+22,chateau-bellegrave,Château Bellegrave,Pauillac,2014,3.5,Pauillac,pauillac,bordeaux
+23,faiveley,Faiveley,Nuits-Saint-Georges 1er Cru Les Poréts,2015,4.0,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+24,domaine-chandon-de-briailles,Chandon de Briailles,Les Lavières Savigny-lès-Beaune 1er Cru,2014,3.8,Savigny-lès-Beaune 1er Cru 'Les Lavières',savigny-les-beaune-les-lavieres,cote-de-beaune
+0,a-et-p-de-villaine,Domaine A. et P. de Villaine,"Bourgogne Côte Chalonnaise ""Les Clous Aime""",2017,3.9,Côte Chalonnaise,cote-chalonnaise,cote-chalonnaise
+1,trimbach-alsace,Trimbach,Gewurztraminer Alsace Vendanges Tardives,2015,3.9,Alsace,alsace,alsace
+2,trimbach-alsace,Trimbach,Pinot Gris Alsace Selection de Grains Nobles,2005,4.7,Alsace,alsace,alsace
+3,trimbach-alsace,Trimbach,Pinot Gris Alsace Réserve Personnelle,2013,4.1,Alsace,alsace,alsace
+4,louis-jadot,Louis Jadot,Beaune Premier Cru,2015,4.1,Beaune Premier Cru,beaune-premier-cru,cote-de-beaune
+5,louis-jadot,Louis Jadot,Beaune Premier Cru,2016,4.2,Beaune Premier Cru,beaune-premier-cru,cote-de-beaune
+6,la-chablisienne,La Chablisienne,Chablis 1er Cru 'Les Lys',2015,3.8,Chablis 1er Cru 'Les Lys',chablis-les-lys,bourgogne
+7,trimbach-alsace,Trimbach,Gewürztraminer Alsace Cuvée des Seigneurs de Ribeaupierre,2011,4.1,Alsace,alsace,alsace
+8,domaine-laroche,Domaine Laroche,Chablis Premier Cru 'Les Beauroys',2015,4.2,Chablis Premier Cru,chablis-premier-cru,bourgogne
+9,domaine-ponsot,Domaine Ponsot,Chapelle-Chambertin Grand Cru,2007,4.4,Chapelle-Chambertin Grand Cru,chapelle-chambertin,cote-de-nuits
+10,david-duband,David Duband,Côte de Nuits-Villages,2017,3.9,Côte de Nuits Villages,cote-de-nuits-villages,cote-de-nuits
+11,david-duband,David Duband,Gevrey-Chambertin,2014,3.8,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+12,david-duband,David Duband,Morey-Saint-Denis Premier Cru 'Clos Sorbè',2013,4.0,Morey-Saint-Denis 1er Cru 'Clos Sorbe',morey-saint-denis-clos-sorbe,cote-de-nuits
+13,david-duband,David Duband,Nuits-Saint-Georges,2012,3.9,Nuits-Saint-Georges,nuits-saint-georges,cote-de-nuits
+14,domaine-chandon-de-briailles,Chandon de Briailles,Île des Vergelesses Pernand-Vergelesses 1er Cru Rouge,2017,4.2,Pernand-Vergelesses Premier Cru,pernand-vergelesses-premier-cru,cote-de-beaune
+15,domaine-louis-max,Louis Max,Mercurey Les Rochelles,2016,4.0,Mercurey,mercurey,cote-chalonnaise
+16,meo-camuzet,Méo-Camuzet,Fixin 1er Cru 'Clos du Chapitre',2015,4.3,Fixin 1er Cru 'Clos du Chapitre',fixin-le-clos-du-chapitre,cote-de-nuits
+17,rene-bouvier,René Bouvier,Gevrey-Chambertin 'La Justice',2016,4.0,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+18,rene-bouvier,René Bouvier,Gevrey-Chambertin 'La Justice',2017,4.4,Gevrey-Chambertin,gevrey-chambertin,cote-de-nuits
+19,fr-domaine-cordier-pere-fils,Domaine Cordier Père & Fils,Vignes Blanches Pouilly-Fuissé,2014,4.2,Pouilly-Fuissé,pouilly-fuisse,maconnais
+20,geantet-pansiot,Geantet-Pansiot,Marsannay Champs Perdrix,2014,3.7,Marsannay,marsannay,cote-de-nuits
+21,bader-mimeur,Bader-Mimeur,Chateau de Chassagne-Montrachet Blanc,2016,4.1,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+22,bader-mimeur,Bader-Mimeur,Chateau de Chassagne-Montrachet Rouge,2015,4.3,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+23,bader-mimeur,Bader-Mimeur,Chateau de Chassagne-Montrachet Blanc,2009,4.0,Chassagne-Montrachet,chassagne-montrachet,cote-de-beaune
+24,la-fert,Domaine de la Ferté,Givry,2016,3.8,Givry,givry,cote-chalonnaise
